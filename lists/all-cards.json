@@ -1,16 +1,10 @@
 ﻿{
-    "name": "Elegies of Vaquer (2)",
-    "formats": "",
-    "trimmed": "y",
-    "image_type": "jpg",
-    "draft_structure": "play booster",
-    "unpreviewed": "card back",
     "cards": [
         {
             "card_name": "Murktears, the Thrum",
             "color": "W",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Spirit",
+            "type": "Legendary Creature \u2013 Spirit",
             "number": 21,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -23,7 +17,8 @@
             "loyalty": "",
             "artist": "Ari Ibarra",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Treacleblossom",
@@ -42,13 +37,14 @@
             "loyalty": "",
             "artist": "thedancingemu",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Daughters of Conclusion",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Cleric",
+            "type": "Creature \u2013 Human Cleric",
             "number": 5,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -61,13 +57,14 @@
             "loyalty": "",
             "artist": "Yi.",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Winged Beckoner",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2014 Angel",
+            "type": "Creature \u2013 Angel",
             "number": 37,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -80,13 +77,14 @@
             "loyalty": "",
             "artist": "Yoann Lossel",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Stagnant Vestige",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 30,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -99,13 +97,14 @@
             "loyalty": "",
             "artist": "Teal Newcomb",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Host of the Great Return",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 15,
             "color_identity": "W",
             "cost": "{6}{W}",
@@ -118,13 +117,14 @@
             "loyalty": "",
             "artist": "Jongsik Moon",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Zhalle, Protracted Agony",
             "color": "W",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Spirit",
+            "type": "Legendary Creature \u2013 Spirit",
             "number": 38,
             "color_identity": "W",
             "cost": "{2}{W}{W}{W}",
@@ -137,7 +137,8 @@
             "loyalty": "",
             "artist": "\u30a4\u30e0\u30e9\u3000\u30ce\u30c5\u30af",
             "alias": "",
-            "notes": "."
+            "notes": ".",
+            "image_type": "jpg"
         },
         {
             "card_name": "Equivalence",
@@ -156,7 +157,8 @@
             "loyalty": "",
             "artist": "Lauren Marx",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Root of Souls",
@@ -175,13 +177,14 @@
             "loyalty": "",
             "artist": "\u6735\u6c90\u56ed\u827a",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Soulcaptor Filigrist",
             "color": "BR",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Artificer",
+            "type": "Creature \u2013 Human Artificer",
             "number": 226,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
@@ -194,13 +197,14 @@
             "loyalty": "",
             "artist": "Nika Kuznetsova",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Lien, Heir of Amel",
             "color": "BR",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Human Noble",
+            "type": "Legendary Creature \u2013 Human Noble",
             "number": 211,
             "color_identity": "BR",
             "cost": "{B}{R}",
@@ -213,13 +217,14 @@
             "loyalty": "",
             "artist": "\u7fa4\u9752\u6253\u706b\u673a",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Grenni, Soulcrafter",
             "color": "WG",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Human Druid",
+            "type": "Legendary Creature \u2013 Human Druid",
             "number": 208,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
@@ -232,7 +237,8 @@
             "loyalty": "",
             "artist": "Morten Solgaard Pedersen",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Unnerving Hush",
@@ -242,7 +248,7 @@
             "number": 233,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
-            "rules_text": "[i]Paragon[/i] \u2014 This spell costs {2} less to cast if you control a creature with power different than each other creature's power.\nExile target nonland permanent.",
+            "rules_text": "[i]Paragon[/i] \u2013 This spell costs {2} less to cast if you control a creature with power different than each other creature's power.\nExile target nonland permanent.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -251,13 +257,14 @@
             "loyalty": "",
             "artist": "Rovina Cai",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Kollept, the Culmination",
             "color": "RG",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Spirit",
+            "type": "Legendary Creature \u2013 Spirit",
             "number": 210,
             "color_identity": "RG",
             "cost": "{4}{R}{G}",
@@ -270,7 +277,8 @@
             "loyalty": "",
             "artist": "Apertus",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Miroa, the Lost Self",
@@ -280,7 +288,7 @@
             "number": 216,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "[i]Insanity [/i]\u2014 When Miroa enters and at the beginning of each upkeep, if two or more cards were put into your graveyard from anywhere this turn, it becomes a copy of any creature on the battlefield except it has this ability. Otherwise, mill two cards.",
+            "rules_text": "[i]Insanity [/i]\u2013 When Miroa enters and at the beginning of each upkeep, if two or more cards were put into your graveyard from anywhere this turn, it becomes a copy of any creature on the battlefield except it has this ability. Otherwise, mill two cards.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -289,7 +297,8 @@
             "loyalty": "",
             "artist": "Felipe Castro",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Maddening Eventuality",
@@ -299,7 +308,7 @@
             "number": 214,
             "color_identity": "UB",
             "cost": "{U}{U}{B}",
-            "rules_text": "Choose one \u2014\n\u2022 Counter target noncreature spell, activated ability, or triggered ability.\n\u2022 Target player gains control of target noncreature spell, activated ability, or triggered ability. They may choose new targets for it.",
+            "rules_text": "Choose one \u2013\n\u2022 Counter target noncreature spell, activated ability, or triggered ability.\n\u2022 Target player gains control of target noncreature spell, activated ability, or triggered ability. They may choose new targets for it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -308,17 +317,18 @@
             "loyalty": "",
             "artist": "Irina Nordsol Kuzmina",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Relai, Burdened Queen",
             "color": "WU",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Elf Merfolk Noble",
+            "type": "Legendary Creature \u2013 Elf Merfolk Noble",
             "number": 223,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
-            "rules_text": "At the beginning of your end step, resound. [i](Trigger any number of resound abilities among permanents you control.)[/i]\nCreatures you control have \u201cResound \u2014 Untap up to one target permanent.\u201d",
+            "rules_text": "At the beginning of your end step, resound. [i](Trigger any number of resound abilities among permanents you control.)[/i]\nCreatures you control have \u201cResound \u2013 Untap up to one target permanent.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "0/5",
             "special_text": "",
@@ -327,7 +337,8 @@
             "loyalty": "",
             "artist": "Janna Sophia",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Vaporous Monument",
@@ -346,13 +357,14 @@
             "loyalty": "",
             "artist": "Seb McKinnon",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Fraywing Thief",
             "color": "RG",
             "rarity": "rare",
-            "type": "Creature \u2014 Faerie Rogue",
+            "type": "Creature \u2013 Faerie Rogue",
             "number": 205,
             "color_identity": "RG",
             "cost": "{R}{G}",
@@ -365,7 +377,8 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Flaming Fields",
@@ -384,13 +397,14 @@
             "loyalty": "",
             "artist": "Syd Mills",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Crypt Tree",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Plant",
+            "type": "Creature \u2013 Plant",
             "number": 86,
             "color_identity": "B",
             "cost": "{B}",
@@ -403,13 +417,14 @@
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Unflinching Fatalist",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human Cleric",
+            "type": "Creature \u2013 Human Cleric",
             "number": 112,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -422,13 +437,14 @@
             "loyalty": "",
             "artist": "John Anthony Di Giovanni",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Doomside Flock",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 87,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -441,13 +457,14 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Child of Death's Whisper",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 81,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -460,13 +477,14 @@
             "loyalty": "",
             "artist": "Seb McKinnon",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Matriarch Vagabond",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human Noble",
+            "type": "Creature \u2013 Human Noble",
             "number": 100,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -479,7 +497,8 @@
             "loyalty": "",
             "artist": "Jodie Muir",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Reclaim Soul",
@@ -498,7 +517,8 @@
             "loyalty": "",
             "artist": "Mar\u00eda Dur\u00e1n Montes",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Strange Mercy",
@@ -508,7 +528,7 @@
             "number": 108,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
-            "rules_text": "Choose one \u2014\n\u2022 Destroy target non-Spirit creature.\n\u2022 Each of up to three target creatures get -1/-1 until end of turn.",
+            "rules_text": "Choose one \u2013\n\u2022 Destroy target non-Spirit creature.\n\u2022 Each of up to three target creatures get -1/-1 until end of turn.",
             "flavor_text": "[i]Exorcist favor a more merciful end to reckoning with spirits.[/i]",
             "pt": "",
             "special_text": "",
@@ -517,13 +537,14 @@
             "loyalty": "",
             "artist": "Cynthia Shepherd",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Insatiable Mists",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 98,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -536,13 +557,14 @@
             "loyalty": "",
             "artist": "Rovina Cai",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Elegy Priestess",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Cleric",
+            "type": "Creature \u2013 Human Cleric",
             "number": 91,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
@@ -555,17 +577,18 @@
             "loyalty": "",
             "artist": "Anastasia Balakchina",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Catacomb Stalker",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 80,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
-            "rules_text": "Ward\u2014Sacrifice a creature.\nAt the beginning of combat, if a creature died this turn, this creature can't block or be blocked and gets -3/-0 until end of turn.",
+            "rules_text": "Ward\u2013Sacrifice a creature.\nAt the beginning of combat, if a creature died this turn, this creature can't block or be blocked and gets -3/-0 until end of turn.",
             "flavor_text": "[i]It seeks brethren in the dark.[/i]",
             "pt": "6/4",
             "special_text": "",
@@ -574,13 +597,14 @@
             "loyalty": "",
             "artist": "Matheus Graef",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Elaye, the Lofty",
             "color": "B",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Human",
+            "type": "Legendary Creature \u2013 Human",
             "number": 90,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -593,7 +617,8 @@
             "loyalty": "",
             "artist": "Ana Fedina",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Grieving Stones",
@@ -612,13 +637,14 @@
             "loyalty": "",
             "artist": "MOOD Visuals",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Treasure",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2014 Treasure",
+            "type": "Token Artifact \u2013 Treasure",
             "number": 3,
             "color_identity": "C",
             "cost": "",
@@ -631,13 +657,14 @@
             "loyalty": "",
             "artist": "Tobias Kwan",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Swamp",
+            "type": "Basic Land \u2013 Swamp",
             "number": 270,
             "color_identity": "B",
             "cost": "",
@@ -650,13 +677,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Swamp",
+            "type": "Basic Land \u2013 Swamp",
             "number": 271,
             "color_identity": "B",
             "cost": "",
@@ -669,13 +697,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Spirit",
             "color": "",
             "rarity": "common",
-            "type": "Token Creature \u2014 Spirit",
+            "type": "Token Creature \u2013 Spirit",
             "number": 2,
             "color_identity": "C",
             "cost": "",
@@ -688,32 +717,34 @@
             "loyalty": "",
             "artist": "Nicolas Vigneault-Gendron",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "An Echo and a Light",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Legendary Enchantment \u2014 Elegy",
+            "type": "Legendary Enchantment \u2013 Elegy",
             "number": 89,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI \u2014 Each opponent sacrifices a creature or planeswalker.\nII \u2014 Draw a card and lose 2 life. Each opponent discards a card and loses 2 life.\nIII \u2014 Return up to one target creature card from your graveyard to your hand.",
+            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI \u2013 Each opponent sacrifices a creature or planeswalker.\nII \u2013 Draw a card and lose 2 life. Each opponent discards a card and loses 2 life.\nIII \u2013 Return up to one target creature card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI \u2014 Each opponent sacrifices a creature or planeswalker.\nII \u2014 Draw a card and lose 2 life. Each opponent discards a card and loses 2 life.\nIII \u2014 Return up to one target creature card from your graveyard to your hand.",
+            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI \u2013 Each opponent sacrifices a creature or planeswalker.\nII \u2013 Draw a card and lose 2 life. Each opponent discards a card and loses 2 life.\nIII \u2013 Return up to one target creature card from your graveyard to your hand.",
             "shape": "saga",
             "set": "ELV",
             "loyalty": "",
             "artist": "Rovina Cai",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Olnuv, Calamity Sworn",
             "color": "BR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Cleric",
+            "type": "Legendary Creature \u2013 Human Cleric",
             "number": 217,
             "color_identity": "BR",
             "cost": "{3}{B}{R}",
@@ -726,7 +757,8 @@
             "loyalty": "",
             "artist": "Daria Rashev",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "False Dreamscapes",
@@ -745,13 +777,14 @@
             "loyalty": "",
             "artist": "noah-kh",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Pneuma, Fatal Superposition",
             "color": "UB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Spirit Wizard",
+            "type": "Legendary Creature \u2013 Human Spirit Wizard",
             "number": 222,
             "color_identity": "UB",
             "cost": "{U}{B}",
@@ -764,7 +797,8 @@
             "loyalty": "",
             "artist": "David Romero",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Extirpate",
@@ -783,13 +817,14 @@
             "loyalty": "",
             "artist": "Drokonov Ilya",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Shask, Fading Soul",
             "color": "WU",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Spirit",
+            "type": "Legendary Creature \u2013 Spirit",
             "number": 225,
             "color_identity": "WU",
             "cost": "{W}{U}",
@@ -802,7 +837,8 @@
             "loyalty": "",
             "artist": "hyphaea",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Vaquer's Last Day",
@@ -821,13 +857,14 @@
             "loyalty": "",
             "artist": "Adam Burke",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Turan, Renowned Exorcist",
             "color": "WG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Cleric",
+            "type": "Legendary Creature \u2013 Human Cleric",
             "number": 229,
             "color_identity": "WG",
             "cost": "{G}{W}",
@@ -840,7 +877,8 @@
             "loyalty": "",
             "artist": "len-yan",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Lure of the Light",
@@ -859,17 +897,18 @@
             "loyalty": "",
             "artist": "Nick Grey",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Eksta, Slayer of Finality",
             "color": "RG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Warrior",
+            "type": "Legendary Creature \u2013 Human Warrior",
             "number": 197,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
-            "rules_text": "Ward\u2014Pay 6 life\nOther creatures you control have \u201cAt the beginning of your first main phase, you may tap this creature to add one mana of any color.\u201d\n{4}{R}{G}: Eksta fights target creature an opponent controls.",
+            "rules_text": "Ward\u2013Pay 6 life\nOther creatures you control have \u201cAt the beginning of your first main phase, you may tap this creature to add one mana of any color.\u201d\n{4}{R}{G}: Eksta fights target creature an opponent controls.",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -878,13 +917,14 @@
             "loyalty": "",
             "artist": "POPZ",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Tiren Katabas",
             "color": "RG",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2014 Tiren",
+            "type": "Legendary Planeswalker \u2013 Tiren",
             "number": 228,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
@@ -897,13 +937,14 @@
             "loyalty": "3",
             "artist": "Even Mehl Amundsen",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Aminatou, the Elegaic",
             "color": "WUB",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2014 Aminatou",
+            "type": "Legendary Planeswalker \u2013 Aminatou",
             "number": 189,
             "color_identity": "WUB",
             "cost": "{2}{W}{U}{B}",
@@ -916,112 +957,118 @@
             "loyalty": "5",
             "artist": "Bram Willemont",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Deadness Others Had to Burn",
             "color": "BR",
             "rarity": "rare",
-            "type": "Legendary Enchantment \u2014 Elegy",
+            "type": "Legendary Enchantment \u2013 Elegy",
             "number": 193,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
-            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after IV.)[/i]\nI, II, III \u2014 This Elegy gains \u201cWhenever a creature you control dies, that creature deals 1 damage to each opponent.\u201d\nIV \u2014 Return up to one target creature card put into a graveyard from anywhere this turn to the battlefield under your control. You lose life equal to its mana value.\n\u200b",
+            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after IV.)[/i]\nI, II, III \u2013 This Elegy gains \u201cWhenever a creature you control dies, that creature deals 1 damage to each opponent.\u201d\nIV \u2013 Return up to one target creature card put into a graveyard from anywhere this turn to the battlefield under your control. You lose life equal to its mana value.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after IV.)[/i]\nI, II, III \u2014 This Elegy gains \u201cWhenever a creature you control dies, that creature deals 1 damage to each opponent.\u201d\nIV \u2014 Return up to one target creature card put into a graveyard from anywhere this turn to the battlefield under your control. You lose life equal to its mana value.\n\u200b",
+            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after IV.)[/i]\nI, II, III \u2013 This Elegy gains \u201cWhenever a creature you control dies, that creature deals 1 damage to each opponent.\u201d\nIV \u2013 Return up to one target creature card put into a graveyard from anywhere this turn to the battlefield under your control. You lose life equal to its mana value.\n\u200b",
             "shape": "saga",
             "set": "ELV",
             "loyalty": "",
             "artist": "Katharina Fuchs",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Float Upon Your Wat'ry Bier",
             "color": "WU",
             "rarity": "rare",
-            "type": "Legendary Enchantment \u2014 Elegy",
+            "type": "Legendary Enchantment \u2013 Elegy",
             "number": 204,
             "color_identity": "WU",
             "cost": "{6}{W}{U}",
-            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after V.)[/i]\nI \u2014 Return each nonland permanent your opponents control to their owner's hands.\nII, III, IV \u2014 Surveil 2, then draw two cards and create two 1/1 colorless Spirit creature tokens.\nV \u2014 Take an extra turn after this one. Exile this Elegy and your graveyard.",
+            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after V.)[/i]\nI \u2013 Return each nonland permanent your opponents control to their owner's hands.\nII, III, IV \u2013 Surveil 2, then draw two cards and create two 1/1 colorless Spirit creature tokens.\nV \u2013 Take an extra turn after this one. Exile this Elegy and your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after V.)[/i]\nI \u2014 Return each nonland permanent your opponents control to their owner's hands.\nII, III, IV \u2014 Surveil 2, then draw two cards and create two 1/1 colorless Spirit creature tokens.\nV \u2014 Take an extra turn after this one. Exile this Elegy and your graveyard.",
+            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after V.)[/i]\nI \u2013 Return each nonland permanent your opponents control to their owner's hands.\nII, III, IV \u2013 Surveil 2, then draw two cards and create two 1/1 colorless Spirit creature tokens.\nV \u2013 Take an extra turn after this one. Exile this Elegy and your graveyard.",
             "shape": "saga",
             "set": "ELV",
             "loyalty": "",
             "artist": "Se-hyun",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "The Death of the Poet",
             "color": "UB",
             "rarity": "rare",
-            "type": "Legendary Enchantment \u2014 Elegy",
+            "type": "Legendary Enchantment \u2013 Elegy",
             "number": 194,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after IV.)[/i]\nI, II \u2014 Draw two cards, then discard two cards.\nIII \u2014 Exile up to two cards from your graveyard.\nIV \u2014 You may cast an instant, sorcery, or Elegy card exiled with this Elegy without paying its mana cost.",
+            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after IV.)[/i]\nI, II \u2013 Draw two cards, then discard two cards.\nIII \u2013 Exile up to two cards from your graveyard.\nIV \u2013 You may cast an instant, sorcery, or Elegy card exiled with this Elegy without paying its mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after IV.)[/i]\nI, II \u2014 Draw two cards, then discard two cards.\nIII \u2014 Exile up to two cards from your graveyard.\nIV \u2014 You may cast an instant, sorcery, or Elegy card exiled with this Elegy without paying its mana cost.",
+            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after IV.)[/i]\nI, II \u2013 Draw two cards, then discard two cards.\nIII \u2013 Exile up to two cards from your graveyard.\nIV \u2013 You may cast an instant, sorcery, or Elegy card exiled with this Elegy without paying its mana cost.",
             "shape": "saga",
             "set": "ELV",
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Better to Have Loved and Lost",
             "color": "WG",
             "rarity": "rare",
-            "type": "Legendary Enchantment \u2014 Elegy",
+            "type": "Legendary Enchantment \u2013 Elegy",
             "number": 190,
             "color_identity": "WG",
             "cost": "{G}{W}",
-            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI \u2014 Exile each other nonland permanent with mana value 2 or less until this Elegy leaves the battlefield. Lore counters can't be added to this Elegy until end of turn.\nII, III \u2014 Put a +1/+1 counter on target creature you control for each permanent card exiled with this Elegy.\n\u200b",
+            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI \u2013 Exile each other nonland permanent with mana value 2 or less until this Elegy leaves the battlefield. Lore counters can't be added to this Elegy until end of turn.\nII, III \u2013 Put a +1/+1 counter on target creature you control for each permanent card exiled with this Elegy.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI \u2014 Exile each other nonland permanent with mana value 2 or less until this Elegy leaves the battlefield. Lore counters can't be added to this Elegy until end of turn.\nII, III \u2014 Put a +1/+1 counter on target creature you control for each permanent card exiled with this Elegy.\n\u200b",
+            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI \u2013 Exile each other nonland permanent with mana value 2 or less until this Elegy leaves the battlefield. Lore counters can't be added to this Elegy until end of turn.\nII, III \u2013 Put a +1/+1 counter on target creature you control for each permanent card exiled with this Elegy.\n\u200b",
             "shape": "saga",
             "set": "ELV",
             "loyalty": "",
             "artist": "Melissa Houpert",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Under That Blind Red Wall",
             "color": "RG",
             "rarity": "rare",
-            "type": "Legendary Enchantment \u2014 Elegy",
+            "type": "Legendary Enchantment \u2013 Elegy",
             "number": 232,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
-            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i] \nI, II \u2014 Create a token that's a copy of target creature you control. It gains haste and \u201cWhen this creature enters, it fights up to one other target creature.\u201d Sacrifice it when this Elegy leaves the battlefield.\nIII \u2014 Destroy all artifacts. For each artifact destroyed this way, create a tapped Treasure token.\n\u200b",
+            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i] \nI, II \u2013 Create a token that's a copy of target creature you control. It gains haste and \u201cWhen this creature enters, it fights up to one other target creature.\u201d Sacrifice it when this Elegy leaves the battlefield.\nIII \u2013 Destroy all artifacts. For each artifact destroyed this way, create a tapped Treasure token.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i] \nI, II \u2014 Create a token that's a copy of target creature you control. It gains haste and \u201cWhen this creature enters, it fights up to one other target creature.\u201d Sacrifice it when this Elegy leaves the battlefield.\nIII \u2014 Destroy all artifacts. For each artifact destroyed this way, create a tapped Treasure token.\n\u200b",
+            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i] \nI, II \u2013 Create a token that's a copy of target creature you control. It gains haste and \u201cWhen this creature enters, it fights up to one other target creature.\u201d Sacrifice it when this Elegy leaves the battlefield.\nIII \u2013 Destroy all artifacts. For each artifact destroyed this way, create a tapped Treasure token.\n\u200b",
             "shape": "saga",
             "set": "ELV",
             "loyalty": "",
             "artist": "Meike Hakkaart",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Drowner Emissary",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Merfolk Horror",
+            "type": "Creature \u2013 Merfolk Horror",
             "number": 49,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "When this creature enters, resound. [i](Trigger any number of resound abilities among permanents you control.)[/i]\nResound \u2014 Return target creature an opponent controls to its owner's hand.",
+            "rules_text": "When this creature enters, resound. [i](Trigger any number of resound abilities among permanents you control.)[/i]\nResound \u2013 Return target creature an opponent controls to its owner's hand.",
             "flavor_text": "[i]\u201cDo not trust them, but try to learn.\u201d[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1030,17 +1077,18 @@
             "loyalty": "",
             "artist": "Guillem H. Pongiluppi",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Ashfield Guide",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Scout",
+            "type": "Creature \u2013 Human Scout",
             "number": 1,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "When this creature enters, resound. [i](Trigger any number of resound abilities among creatures you control.)[/i]\nResound \u2014 You gain 3 life.",
+            "rules_text": "When this creature enters, resound. [i](Trigger any number of resound abilities among creatures you control.)[/i]\nResound \u2013 You gain 3 life.",
             "flavor_text": "[i]Our world changed with Calamity, yet some still know paths forward.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1049,13 +1097,14 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Haven Keeper",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 12,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -1068,17 +1117,18 @@
             "loyalty": "",
             "artist": "Sophie Rowan",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Instiller of Spirits",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Cleric",
+            "type": "Creature \u2013 Human Cleric",
             "number": 16,
             "color_identity": "W",
             "cost": "{4}{W}",
-            "rules_text": "When this creature enters, resound. [i](Trigger any number of resound abilities among creatures you control.)[/i]\nResound \u2014 Other creatures you control get +1/+1 until end of turn.",
+            "rules_text": "When this creature enters, resound. [i](Trigger any number of resound abilities among creatures you control.)[/i]\nResound \u2013 Other creatures you control get +1/+1 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -1087,7 +1137,8 @@
             "loyalty": "",
             "artist": "Piotr Jablonski",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Face Fear",
@@ -1097,7 +1148,7 @@
             "number": 9,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Choose one \u2014\n\u2022 Destroy target creature with power 4 or greater.\n\u2022 Destroy target artifact.\n\u2022 Destroy target enchantment.",
+            "rules_text": "Choose one \u2013\n\u2022 Destroy target creature with power 4 or greater.\n\u2022 Destroy target artifact.\n\u2022 Destroy target enchantment.",
             "flavor_text": "[i]\u201cI ask you, where is left for us to flee?\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -1106,17 +1157,18 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Bauble Keeper",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Merfolk",
+            "type": "Creature \u2013 Merfolk",
             "number": 42,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "This creature can't be blocked.\nWhen this creature enters, resound. [i](Trigger any number of resound abilities among creatures you control.)[/i]\nResound \u2014 Create a Treasure token.",
+            "rules_text": "This creature can't be blocked.\nWhen this creature enters, resound. [i](Trigger any number of resound abilities among creatures you control.)[/i]\nResound \u2013 Create a Treasure token.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1125,7 +1177,8 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Slip Into Abstraction",
@@ -1144,7 +1197,8 @@
             "loyalty": "",
             "artist": "Denis Forkas Kostromitin",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Wisdom's Embrace",
@@ -1163,17 +1217,18 @@
             "loyalty": "",
             "artist": "9_9ssh",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Spirits' Foundling",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 29,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "When this creature enters, resound. [i](Trigger any number of resound abilities among creatures you control.)[/i]\nResound \u2014 Create a 1/1 colorless Spirit creature token.",
+            "rules_text": "When this creature enters, resound. [i](Trigger any number of resound abilities among creatures you control.)[/i]\nResound \u2013 Create a 1/1 colorless Spirit creature token.",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -1182,17 +1237,18 @@
             "loyalty": "",
             "artist": "Chupirobia",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Andia, Wings of the Tide",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2014 Angel",
+            "type": "Legendary Creature \u2013 Angel",
             "number": 39,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "Flying\nWhenever Andia deals combat damage to a player, resound. [i](Trigger any number of resound abilities among creatures you control.)[/i]\nResound \u2014 Exile target creature you control without resound, then return that card to the battlefield under its owner's control.",
+            "rules_text": "Flying\nWhenever Andia deals combat damage to a player, resound. [i](Trigger any number of resound abilities among creatures you control.)[/i]\nResound \u2013 Exile target creature you control without resound, then return that card to the battlefield under its owner's control.",
             "flavor_text": "[i][/i]",
             "pt": "1/4",
             "special_text": "",
@@ -1201,7 +1257,8 @@
             "loyalty": "",
             "artist": "Kate Pospeshilova",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Vestige of Reprieve",
@@ -1220,17 +1277,18 @@
             "loyalty": "",
             "artist": "Seb McKinnon",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Guardian Soother",
             "color": "WU",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Cleric",
+            "type": "Creature \u2013 Human Cleric",
             "number": 209,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
-            "rules_text": "When this creature enters, resound. [i](Trigger any number of resound abilities among creatures you control.)[/i]\nResound \u2014 You draw a card and gain 3 life.\n{5}{W}{U}: Resound.",
+            "rules_text": "When this creature enters, resound. [i](Trigger any number of resound abilities among creatures you control.)[/i]\nResound \u2013 You draw a card and gain 3 life.\n{5}{W}{U}: Resound.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -1239,17 +1297,18 @@
             "loyalty": "",
             "artist": "James Jean",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Heir of Vrai",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Noble",
+            "type": "Creature \u2013 Human Noble",
             "number": 13,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "At the beginning of combat on your turn, resound. [i](Trigger any number of resound abilities among creatures you control.)[/i]\nResound \u2014 Other creatures you control gain your choice of flying, lifelink, or vigilance until end of turn.",
+            "rules_text": "At the beginning of combat on your turn, resound. [i](Trigger any number of resound abilities among creatures you control.)[/i]\nResound \u2013 Other creatures you control gain your choice of flying, lifelink, or vigilance until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/5",
             "special_text": "",
@@ -1258,13 +1317,14 @@
             "loyalty": "",
             "artist": "Kekai Kotaki",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Island",
+            "type": "Basic Land \u2013 Island",
             "number": 268,
             "color_identity": "U",
             "cost": "",
@@ -1277,13 +1337,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Island",
+            "type": "Basic Land \u2013 Island",
             "number": 269,
             "color_identity": "U",
             "cost": "",
@@ -1296,13 +1357,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Plains",
+            "type": "Basic Land \u2013 Plains",
             "number": 266,
             "color_identity": "W",
             "cost": "",
@@ -1315,13 +1377,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Plains",
+            "type": "Basic Land \u2013 Plains",
             "number": 265,
             "color_identity": "W",
             "cost": "",
@@ -1334,13 +1397,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Spirit of Recrudescence",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 227,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
@@ -1353,7 +1417,8 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Wrest From Repose",
@@ -1372,13 +1437,14 @@
             "loyalty": "",
             "artist": "Seb McKinnon",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Far-Flung Citizens",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Citizen",
+            "type": "Creature \u2013 Human Citizen",
             "number": 203,
             "color_identity": "WR",
             "cost": "{R}{W}",
@@ -1391,13 +1457,14 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Twilit Kindler",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Elf Warrior",
+            "type": "Creature \u2013 Elf Warrior",
             "number": 231,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
@@ -1410,13 +1477,14 @@
             "loyalty": "",
             "artist": "Matheus Graef",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Druidic Host",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Druid",
+            "type": "Creature \u2013 Human Druid",
             "number": 195,
             "color_identity": "WG",
             "cost": "{G}{W}",
@@ -1429,17 +1497,18 @@
             "loyalty": "",
             "artist": "Symbaroum Art Team",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Unswayed Pilgrim",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Cleric",
+            "type": "Creature \u2013 Human Cleric",
             "number": 234,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
-            "rules_text": "Vigilance\n[i]Paragon[/i] \u2014 At the beginning of combat on your turn, if you control a creature with power different than each other creature's power, creatures you control get +1/+1 until end of turn.",
+            "rules_text": "Vigilance\n[i]Paragon[/i] \u2013 At the beginning of combat on your turn, if you control a creature with power different than each other creature's power, creatures you control get +1/+1 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1448,7 +1517,8 @@
             "loyalty": "",
             "artist": "Anna Christenson",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Ominous Crypt",
@@ -1467,17 +1537,18 @@
             "loyalty": "",
             "artist": "Mateusz Michalski",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Pact Keeper",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Merfolk Warlock",
+            "type": "Creature \u2013 Merfolk Warlock",
             "number": 220,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "[i]Insanity [/i]\u2014 When this creature enters, each player sacrifices a creature. Then if two or more cards were put into your graveyard from anywhere this turn, draw a card and lose 1 life.",
+            "rules_text": "[i]Insanity [/i]\u2013 When this creature enters, each player sacrifices a creature. Then if two or more cards were put into your graveyard from anywhere this turn, draw a card and lose 1 life.",
             "flavor_text": "[i]Even drowners make promises to the spirits.[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -1486,13 +1557,14 @@
             "loyalty": "",
             "artist": "Matheus Graef",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Calamity Mourner",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 191,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
@@ -1505,13 +1577,14 @@
             "loyalty": "",
             "artist": "Su Jian",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Twilight Oracle",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Wizard",
+            "type": "Creature \u2013 Human Wizard",
             "number": 230,
             "color_identity": "UR",
             "cost": "{U}{R}",
@@ -1524,13 +1597,14 @@
             "loyalty": "",
             "artist": "Tom Bagshaw",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Ensnaring Selkie",
             "color": "UG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Merfolk",
+            "type": "Creature \u2013 Merfolk",
             "number": 199,
             "color_identity": "UG",
             "cost": "{G}{U}",
@@ -1543,7 +1617,8 @@
             "loyalty": "",
             "artist": "Christopher Moeller",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Sacred Pool",
@@ -1562,13 +1637,14 @@
             "loyalty": "",
             "artist": "Alassa",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Ember Taker",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 198,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
@@ -1581,13 +1657,14 @@
             "loyalty": "",
             "artist": "Tobias Kwan",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "False Friend",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 202,
             "color_identity": "BR",
             "cost": "{B}{R}",
@@ -1600,13 +1677,14 @@
             "loyalty": "",
             "artist": "Monokubo",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Dusk Offerer",
             "color": "BG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 196,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
@@ -1619,13 +1697,14 @@
             "loyalty": "",
             "artist": "Erikas Perl",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Marshbound Witch",
             "color": "BG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Dryad Warlock",
+            "type": "Creature \u2013 Dryad Warlock",
             "number": 215,
             "color_identity": "BG",
             "cost": "{B}{G}",
@@ -1638,13 +1717,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Gilding Witch",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 207,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
@@ -1657,13 +1737,14 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Outland Warmother",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 219,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
@@ -1676,17 +1757,18 @@
             "loyalty": "",
             "artist": "Othon Nikolaidis",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Thorn Speaker",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 111,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "[i]Insanity[/i] \u2014 At the beginning of combat, if two or more cards were put into your graveyard from anywhere this turn, this creature gains first strike and deathtouch until end of turn.\nSacrifice a creature: Mill a card.",
+            "rules_text": "[i]Insanity[/i] \u2013 At the beginning of combat, if two or more cards were put into your graveyard from anywhere this turn, this creature gains first strike and deathtouch until end of turn.\nSacrifice a creature: Mill a card.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1695,13 +1777,14 @@
             "loyalty": "",
             "artist": "Mam Ba",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Figment of Loss",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 96,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -1714,13 +1797,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Blade Burier",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 78,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -1733,13 +1817,14 @@
             "loyalty": "",
             "artist": "Teradiam",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Recoverer Witch",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 104,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
@@ -1752,13 +1837,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Fenland Consumer",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Zombie",
+            "type": "Creature \u2013 Zombie",
             "number": 95,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
@@ -1771,7 +1857,8 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Spirit's Remission",
@@ -1790,7 +1877,8 @@
             "loyalty": "",
             "artist": "Anastasia Shevchenko",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Tainted Visions",
@@ -1800,7 +1888,7 @@
             "number": 110,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "[i]Insanity[/i] \u2014 Surveil 2. When you do, if two or more cards were put into your graveyard this turn, Tainted Visions deals 2 damage to any target and you gain 2 life.",
+            "rules_text": "[i]Insanity[/i] \u2013 Surveil 2. When you do, if two or more cards were put into your graveyard this turn, Tainted Visions deals 2 damage to any target and you gain 2 life.",
             "flavor_text": "[i]Truth is lost on the sound of mind.[/i]",
             "pt": "",
             "special_text": "",
@@ -1809,7 +1897,8 @@
             "loyalty": "",
             "artist": "Eksafael",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Blighted Insight",
@@ -1828,13 +1917,14 @@
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Gateway Gisant",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 243,
             "color_identity": "C",
             "cost": "{2}",
@@ -1847,13 +1937,14 @@
             "loyalty": "",
             "artist": "German Gedovius",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Solitary Effigy",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Golem",
+            "type": "Artifact Creature \u2013 Golem",
             "number": 249,
             "color_identity": "C",
             "cost": "{3}",
@@ -1866,13 +1957,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Inhabited Armor",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 244,
             "color_identity": "C",
             "cost": "{6}",
@@ -1885,7 +1977,8 @@
             "loyalty": "",
             "artist": "Veli Nyostrom",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Altar of Old Rites",
@@ -1904,7 +1997,8 @@
             "loyalty": "",
             "artist": "\u0418 \u043f\u043e\u0433\u043b\u043e\u0442\u0438\u0442 \u043d\u0430\u0441 \u043c\u043e\u0440\u043e\u043a",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Lectern of Reclaiming",
@@ -1923,7 +2017,8 @@
             "loyalty": "",
             "artist": "Anna Pavleeva",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Siphoning Lantern",
@@ -1942,7 +2037,8 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Blightroot's Honored",
@@ -1961,13 +2057,14 @@
             "loyalty": "",
             "artist": "Castaguer93",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Tillerfolk",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Ouphe",
+            "type": "Creature \u2013 Ouphe",
             "number": 184,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -1980,13 +2077,14 @@
             "loyalty": "",
             "artist": "Valeriy Vegera",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Knower of Ways",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Shaman",
+            "type": "Creature \u2013 Human Shaman",
             "number": 167,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -1999,13 +2097,14 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Quiescent Knight",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 178,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -2018,13 +2117,14 @@
             "loyalty": "",
             "artist": "Haiyang",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Keeper of Tradition",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Noble",
+            "type": "Creature \u2013 Human Noble",
             "number": 165,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -2037,17 +2137,18 @@
             "loyalty": "",
             "artist": "Marc Simonetti",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Strength's Sustainer",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Druid",
+            "type": "Creature \u2013 Human Druid",
             "number": 183,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "[i]Paragon \u2014 [/i]At the beginning of combat on your turn, target creature you control gets +1/+1. Then if you control a creature with power different than each other creature's power, that creature gains trample until end of turn.",
+            "rules_text": "[i]Paragon \u2013 [/i]At the beginning of combat on your turn, target creature you control gets +1/+1. Then if you control a creature with power different than each other creature's power, that creature gains trample until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -2056,13 +2157,14 @@
             "loyalty": "",
             "artist": "Kelly Chong",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Bark Lurker",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 153,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -2075,17 +2177,18 @@
             "loyalty": "",
             "artist": "Ahmad Himli",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Masked Vestige",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 169,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "When this creature enters, draw a card.\n[i]Paragon \u2014[/i] At the beginning of combat on your turn, if you control a creature with power different than each other creature's power, target creature you control gets +2/+2 until end of turn.",
+            "rules_text": "When this creature enters, draw a card.\n[i]Paragon \u2013[/i] At the beginning of combat on your turn, if you control a creature with power different than each other creature's power, target creature you control gets +2/+2 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -2094,13 +2197,14 @@
             "loyalty": "",
             "artist": "Michele Giorgi",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Loam Stalkers",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 168,
             "color_identity": "G",
             "cost": "{5}{G}",
@@ -2113,13 +2217,14 @@
             "loyalty": "",
             "artist": "Lamin martin",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Old-Growth Spirit",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 174,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
@@ -2132,7 +2237,8 @@
             "loyalty": "",
             "artist": "RomanDubina",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Replete",
@@ -2151,7 +2257,8 @@
             "loyalty": "",
             "artist": "Kevin Zamir Goeke",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Propagating Altar",
@@ -2170,7 +2277,8 @@
             "loyalty": "",
             "artist": "Alexandr Komarov",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Bygone Might",
@@ -2189,7 +2297,8 @@
             "loyalty": "",
             "artist": "Silvia Pasqualetto",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Wander the Wilderness",
@@ -2208,7 +2317,8 @@
             "loyalty": "",
             "artist": "Carlos Brancho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Beseech the Spirits",
@@ -2227,7 +2337,8 @@
             "loyalty": "",
             "artist": "Roman Dubina",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Tidecloak Bound",
@@ -2246,7 +2357,8 @@
             "loyalty": "",
             "artist": "Yerbol Bulentayev",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Shroudmire Bound",
@@ -2265,7 +2377,8 @@
             "loyalty": "",
             "artist": "Calder Moore",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Graspmurk Bound",
@@ -2284,7 +2397,8 @@
             "loyalty": "",
             "artist": "Thomas Honz",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Mosslight Bound",
@@ -2303,7 +2417,8 @@
             "loyalty": "",
             "artist": "Dishonored",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Carvepyre Bound",
@@ -2322,13 +2437,14 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Bold Venturer",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Scout",
+            "type": "Creature \u2013 Human Scout",
             "number": 118,
             "color_identity": "R",
             "cost": "{R}",
@@ -2341,13 +2457,14 @@
             "loyalty": "",
             "artist": "Sina Pakzad Kasra",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Desperate Deserter",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Soldier",
+            "type": "Creature \u2013 Human Soldier",
             "number": 125,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2360,13 +2477,14 @@
             "loyalty": "",
             "artist": "Alexander Forssberg",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Honored Kindler",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Shaman",
+            "type": "Creature \u2013 Human Shaman",
             "number": 133,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2379,13 +2497,14 @@
             "loyalty": "",
             "artist": "Cosmio Galluzzi",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Heirloom Thief",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Rogue",
+            "type": "Creature \u2013 Human Rogue",
             "number": 131,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2398,13 +2517,14 @@
             "loyalty": "",
             "artist": "John Silva",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Recalcitrant Spirit",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 140,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2417,13 +2537,14 @@
             "loyalty": "",
             "artist": "James Ghirt?",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Forsaken Archer",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Archer",
+            "type": "Creature \u2013 Human Archer",
             "number": 129,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2436,13 +2557,14 @@
             "loyalty": "",
             "artist": "Pavel Goloviy",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Crag-Claimer Wurm",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Wurm",
+            "type": "Creature \u2013 Wurm",
             "number": 124,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -2455,13 +2577,14 @@
             "loyalty": "",
             "artist": "Matheus Graef",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Brutal Apparition",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 119,
             "color_identity": "R",
             "cost": "{4}{R}",
@@ -2474,13 +2597,14 @@
             "loyalty": "",
             "artist": "Justin Gerard",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Bygone Behemoth",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 120,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
@@ -2493,7 +2617,8 @@
             "loyalty": "",
             "artist": "Sina Pakzad Kasra",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Exorcise Flesh",
@@ -2512,7 +2637,8 @@
             "loyalty": "",
             "artist": "Gerald Brom",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Unexpected Discovery",
@@ -2531,13 +2657,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Mourned Glory",
             "color": "R",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 138,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2550,7 +2677,8 @@
             "loyalty": "",
             "artist": "Oistina Khalidah",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Spirit Shepherding",
@@ -2569,7 +2697,8 @@
             "loyalty": "",
             "artist": "Nipuni",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Minor Starfall",
@@ -2579,7 +2708,7 @@
             "number": 137,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "Choose one or more \u2014\n\u2022 Minor Starfall deals 2 damage to each creature.\n\u2022 Minor Starfall deals 2 damage to each planeswalker.\n\u2022 Minor Starfall deals 2 damage to each player.",
+            "rules_text": "Choose one or more \u2013\n\u2022 Minor Starfall deals 2 damage to each creature.\n\u2022 Minor Starfall deals 2 damage to each planeswalker.\n\u2022 Minor Starfall deals 2 damage to each player.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2588,7 +2717,8 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Callous Incineration",
@@ -2598,7 +2728,7 @@
             "number": 122,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Choose one \u2014\n\u2022 Deal 4 damage to target creature or planeswalker. If that permanent would die this turn, exile it instead.\n\u2022 Exile target artifact.",
+            "rules_text": "Choose one \u2013\n\u2022 Deal 4 damage to target creature or planeswalker. If that permanent would die this turn, exile it instead.\n\u2022 Exile target artifact.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2607,17 +2737,18 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Maddening Moonfly",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Insect",
+            "type": "Creature \u2013 Insect",
             "number": 61,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Whenever this creature attacks or blocks, each player mills a card.\n[i]Insanity \u2014[/i] As long as two or more cards were put into your graveyard from anywhere this turn, this creature gets +2/+0 and has flying.",
+            "rules_text": "Whenever this creature attacks or blocks, each player mills a card.\n[i]Insanity \u2013[/i] As long as two or more cards were put into your graveyard from anywhere this turn, this creature gets +2/+0 and has flying.",
             "flavor_text": "[i][/i]",
             "pt": "0/2",
             "special_text": "",
@@ -2626,17 +2757,18 @@
             "loyalty": "",
             "artist": "Michael Whelan",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Drowner Depth-Seer",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Merfolk Warlock",
+            "type": "Creature \u2013 Merfolk Warlock",
             "number": 48,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "When this creature enters, resound. [i](Trigger any number of resound abilities among permanents you control.)[/i]\nResound \u2014 Mill two cards. Put a card from among cards milled this way on top of your library.",
+            "rules_text": "When this creature enters, resound. [i](Trigger any number of resound abilities among permanents you control.)[/i]\nResound \u2013 Mill two cards. Put a card from among cards milled this way on top of your library.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2645,13 +2777,14 @@
             "loyalty": "",
             "artist": "\u990a\u6b96\u4eba\u8c9d",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Icedeep Host",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 57,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -2664,13 +2797,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Smokemind",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 67,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -2683,13 +2817,14 @@
             "loyalty": "",
             "artist": "Dark Crayon",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Churning Tendrils",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Tentacle",
+            "type": "Creature \u2013 Tentacle",
             "number": 45,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
@@ -2702,13 +2837,14 @@
             "loyalty": "",
             "artist": "Lei Min",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Strix of the Henge",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Bird",
+            "type": "Creature \u2013 Bird",
             "number": 72,
             "color_identity": "U",
             "cost": "{6}{U}",
@@ -2721,7 +2857,8 @@
             "loyalty": "",
             "artist": "Istrandar",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Apparate",
@@ -2740,13 +2877,14 @@
             "loyalty": "",
             "artist": "Tristan Rettich",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Unnaming Possession",
             "color": "U",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 75,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2759,7 +2897,8 @@
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Contemplate Calamity",
@@ -2769,7 +2908,7 @@
             "number": 46,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "[i]Insanity \u2014 [/i]Choose one. If two or more cards were put into your graveyard from anywhere this turn, choose one or more instead.\n\u2022 Counter target spell unless its controller pays {2}.\n\u2022 Surveil 1, then draw a card.",
+            "rules_text": "[i]Insanity \u2013 [/i]Choose one. If two or more cards were put into your graveyard from anywhere this turn, choose one or more instead.\n\u2022 Counter target spell unless its controller pays {2}.\n\u2022 Surveil 1, then draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2778,7 +2917,8 @@
             "loyalty": "",
             "artist": "Axel Sauerwald",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Deny Knowledge",
@@ -2797,7 +2937,8 @@
             "loyalty": "",
             "artist": "Victor Hugo Harmatiuk",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Hide Your Face",
@@ -2816,17 +2957,18 @@
             "loyalty": "",
             "artist": "Mars Rey",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Snowfield Traveler",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Cleric",
+            "type": "Creature \u2013 Human Cleric",
             "number": 28,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When this creature enters, resound. [i](Trigger any number of resound abilities among permanents you control.)[/i]\nResound \u2014 Surveil 1.",
+            "rules_text": "When this creature enters, resound. [i](Trigger any number of resound abilities among permanents you control.)[/i]\nResound \u2013 Surveil 1.",
             "flavor_text": "[i]All will be overthrown, all will fall to ruin\u2014go and see for yourself.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2835,7 +2977,8 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Overtaken Exorcist",
@@ -2854,17 +2997,18 @@
             "loyalty": "",
             "artist": "Taras-Susak27",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Cautious Farmhand",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Peasant",
+            "type": "Creature \u2013 Human Peasant",
             "number": 3,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Vigilance\n[i]Paragon[/i] \u2014 Whenever this creature attacks, if you control a creature with power different than each other creature's power, tap target creature an opponent controls.",
+            "rules_text": "Vigilance\n[i]Paragon[/i] \u2013 Whenever this creature attacks, if you control a creature with power different than each other creature's power, tap target creature an opponent controls.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -2873,13 +3017,14 @@
             "loyalty": "",
             "artist": "Yuliya Litvinova",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Safekeeper Guard",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Soldier",
+            "type": "Creature \u2013 Human Soldier",
             "number": 26,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -2892,17 +3037,18 @@
             "loyalty": "",
             "artist": "Shioi",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Forlorn Vestige",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 10,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
-            "rules_text": "Flying\nWhen this creature enters, resound. [i](Trigger any number of resound abilities among creatures you control.)[/i]\nResound \u2014 Draw a card.",
+            "rules_text": "Flying\nWhen this creature enters, resound. [i](Trigger any number of resound abilities among creatures you control.)[/i]\nResound \u2013 Draw a card.",
             "flavor_text": "[i]I am here, where have you gone? Why do I still hear you, but you never answer?[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2911,13 +3057,14 @@
             "loyalty": "",
             "artist": "\u5520\u517d",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Ritegiver",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Cleric",
+            "type": "Creature \u2013 Human Cleric",
             "number": 25,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -2930,17 +3077,18 @@
             "loyalty": "",
             "artist": "Kostiantyn Syvolotskyi",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Uplifting Leader",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Noble",
+            "type": "Creature \u2013 Human Noble",
             "number": 34,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Vigilance\n[i]Paragon \u2014 {3}{W}[/i]: Up to two target creatures you control gain flying until end of turn. Activate only once each turn and only if you control a creature with power different than each other creature's power.",
+            "rules_text": "Vigilance\n[i]Paragon \u2013 {3}{W}[/i]: Up to two target creatures you control gain flying until end of turn. Activate only once each turn and only if you control a creature with power different than each other creature's power.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2949,13 +3097,14 @@
             "loyalty": "",
             "artist": "Josu Hernaiz",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Heretical Coven",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 14,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
@@ -2968,7 +3117,8 @@
             "loyalty": "",
             "artist": "Olivia Rhea",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Deliverance",
@@ -2978,7 +3128,7 @@
             "number": 6,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Choose one \u2014\n\u2022 Deal 3 damage to target attacking creature.\n\u2022 Prevent all damage that would be dealt to creatures this turn.",
+            "rules_text": "Choose one \u2013\n\u2022 Deal 3 damage to target attacking creature.\n\u2022 Prevent all damage that would be dealt to creatures this turn.",
             "flavor_text": "[i]It's alright. You're safe now.[/i]",
             "pt": "",
             "special_text": "",
@@ -2987,13 +3137,14 @@
             "loyalty": "",
             "artist": "\u5520\u517d",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Watchful Lingering",
             "color": "W",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 36,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -3006,7 +3157,8 @@
             "loyalty": "",
             "artist": "Ben Juniu",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Twilit Encounter",
@@ -3025,17 +3177,18 @@
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "The Silencers of Amel",
             "color": "B",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Warlock",
+            "type": "Legendary Creature \u2013 Human Warlock",
             "number": 106,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "At the beginning of your upkeep, choose one that hasn't been chosen \u2014\n\u2022 For each card type, each player exiles a card of that type from their graveyard.\n\u2022 Each player draws two cards and loses 2 life, then mills two cards.\n\u2022 Each player returns a creature card from their graveyard to the battlefield tapped.",
+            "rules_text": "At the beginning of your upkeep, choose one that hasn't been chosen \u2013\n\u2022 For each card type, each player exiles a card of that type from their graveyard.\n\u2022 Each player draws two cards and loses 2 life, then mills two cards.\n\u2022 Each player returns a creature card from their graveyard to the battlefield tapped.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3044,7 +3197,8 @@
             "loyalty": "",
             "artist": "Nikita Shushman",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Whispered Demise",
@@ -3063,13 +3217,14 @@
             "loyalty": "",
             "artist": "Kristina Carroll",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Idra, Voracious Drowner",
             "color": "G",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Merfolk",
+            "type": "Legendary Creature \u2013 Merfolk",
             "number": 163,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
@@ -3082,13 +3237,14 @@
             "loyalty": "",
             "artist": "Anna Verhoog",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Elne, Starfall Prohpet",
             "color": "R",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Peasant",
+            "type": "Legendary Creature \u2013 Human Peasant",
             "number": 126,
             "color_identity": "R",
             "cost": "{R}",
@@ -3101,13 +3257,14 @@
             "loyalty": "",
             "artist": "Niram S.",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Lis, Heretic of Bounds",
             "color": "U",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Advisor",
+            "type": "Legendary Creature \u2013 Human Advisor",
             "number": 60,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
@@ -3120,7 +3277,8 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Bare the Soul",
@@ -3139,13 +3297,14 @@
             "loyalty": "",
             "artist": "Alexey Egorov",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Pinnacle Haunt",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 102,
             "color_identity": "B",
             "cost": "{B}",
@@ -3158,13 +3317,14 @@
             "loyalty": "",
             "artist": "Aretm Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Emptied Court",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 92,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
@@ -3177,13 +3337,14 @@
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Wanderers in Mist",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 113,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -3196,13 +3357,14 @@
             "loyalty": "",
             "artist": "Anna Pavleeva",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Crypt Forest Hungerer",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2014 Troll",
+            "type": "Creature \u2013 Troll",
             "number": 85,
             "color_identity": "B",
             "cost": "{6}{B}",
@@ -3215,7 +3377,8 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Doomswear",
@@ -3234,7 +3397,8 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Harvest Invitation",
@@ -3253,7 +3417,8 @@
             "loyalty": "",
             "artist": "Jannasophia",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Rise from Silt",
@@ -3272,13 +3437,14 @@
             "loyalty": "",
             "artist": "Seb McKinnon",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Mist-Mourner",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2014 Dryad",
+            "type": "Creature \u2013 Dryad",
             "number": 170,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -3291,13 +3457,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Ilhamuer, Newborn",
             "color": "G",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Faerie",
+            "type": "Legendary Creature \u2013 Faerie",
             "number": 164,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -3310,17 +3477,18 @@
             "loyalty": "",
             "artist": "xia chenjie",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "World's Edge Guide",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2014 Elf Scout",
+            "type": "Creature \u2013 Elf Scout",
             "number": 188,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "[i]Paragon[/i] \u2014 Whenever this creature enters or attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle. If you control a creature with power different than each other creature's power, repeat this process once.",
+            "rules_text": "[i]Paragon[/i] \u2013 Whenever this creature enters or attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle. If you control a creature with power different than each other creature's power, repeat this process once.",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -3329,13 +3497,14 @@
             "loyalty": "",
             "artist": "lei min",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Autumnfell Spirit",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 152,
             "color_identity": "G",
             "cost": "{4}{G}",
@@ -3348,13 +3517,14 @@
             "loyalty": "",
             "artist": "ApricotKnight",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Citadel Claimant",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 159,
             "color_identity": "G",
             "cost": "{6}{G}",
@@ -3367,13 +3537,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Persistent Roots",
             "color": "G",
             "rarity": "rare",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 176,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -3386,7 +3557,8 @@
             "loyalty": "",
             "artist": "Marcela Bolivar",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Boon Trader's Gift",
@@ -3405,7 +3577,8 @@
             "loyalty": "",
             "artist": "lei min",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Moribund Realm",
@@ -3424,13 +3597,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Perfidumancer",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 139,
             "color_identity": "R",
             "cost": "{R}",
@@ -3443,13 +3617,14 @@
             "loyalty": "",
             "artist": "Anato Finstark",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Kovara of the Ember Sun",
             "color": "R",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Human Cleric",
+            "type": "Legendary Creature \u2013 Human Cleric",
             "number": 135,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3462,13 +3637,14 @@
             "loyalty": "",
             "artist": "Marnia Krivenko",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Smoke Trailer",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 143,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
@@ -3481,13 +3657,14 @@
             "loyalty": "",
             "artist": "Eugene Korolev",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Resolute Kindler",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 141,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -3500,13 +3677,14 @@
             "loyalty": "",
             "artist": "Raja Nandepu",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Incendiary Apparition",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 134,
             "color_identity": "R",
             "cost": "{4}{R}",
@@ -3519,7 +3697,8 @@
             "loyalty": "",
             "artist": "Anato Finstark",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Chaos Impending",
@@ -3538,7 +3717,8 @@
             "loyalty": "",
             "artist": "Anato Finstark",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Starfall Epiphany",
@@ -3557,7 +3737,8 @@
             "loyalty": "",
             "artist": "Julie Dillon",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Metanoia's Hunt",
@@ -3576,13 +3757,14 @@
             "loyalty": "",
             "artist": "Tobias Kwan",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Drowner Lord",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2014 Merfolk Noble",
+            "type": "Creature \u2013 Merfolk Noble",
             "number": 50,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -3595,13 +3777,14 @@
             "loyalty": "",
             "artist": "Andrew Mar",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Morose Communer",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 62,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -3614,13 +3797,14 @@
             "loyalty": "",
             "artist": "DopaPrime",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Seer of Five Horizons",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2014 Human Wizard",
+            "type": "Creature \u2013 Human Wizard",
             "number": 65,
             "color_identity": "U",
             "cost": "{4}{U}",
@@ -3633,17 +3817,18 @@
             "loyalty": "",
             "artist": "Leilani Bustamante",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Spinneret, the Fate Taker",
             "color": "U",
             "rarity": "rare",
-            "type": "Legendary Creature \u2014 Spirit",
+            "type": "Legendary Creature \u2013 Spirit",
             "number": 69,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
-            "rules_text": "When Spinneret enters, surveil 3.\n[i]Insanity[/i] \u2014 At the beginning of your end step, if two or more cards were put into your graveyard from anywhere this turn, gain control of target creature with power X or less, where X is the number of cards put into your graveyard this turn.",
+            "rules_text": "When Spinneret enters, surveil 3.\n[i]Insanity[/i] \u2013 At the beginning of your end step, if two or more cards were put into your graveyard from anywhere this turn, gain control of target creature with power X or less, where X is the number of cards put into your graveyard this turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",
@@ -3652,7 +3837,8 @@
             "loyalty": "",
             "artist": "Dmitry Dalney",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Flutesong",
@@ -3671,13 +3857,14 @@
             "loyalty": "",
             "artist": "Bogdan Rezunenko",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Interminable Dream",
             "color": "U",
             "rarity": "rare",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 59,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -3690,7 +3877,8 @@
             "loyalty": "",
             "artist": "Leilanu Bustamante",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Starfall Tree",
@@ -3709,7 +3897,8 @@
             "loyalty": "",
             "artist": "Sarah Finnigan",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Great Unlidding",
@@ -3719,7 +3908,7 @@
             "number": 55,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
-            "rules_text": "Choose one \u2014\n\u2022 Resound five times. [i](Trigger any number of resound abilities among permanents you control. Then do it four more times.)[/i]\n\u2022 Return each nonland permanent you don't control to its owner's hand.\n\u2022 Draw five cards.",
+            "rules_text": "Choose one \u2013\n\u2022 Resound five times. [i](Trigger any number of resound abilities among permanents you control. Then do it four more times.)[/i]\n\u2022 Return each nonland permanent you don't control to its owner's hand.\n\u2022 Draw five cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3728,7 +3917,8 @@
             "loyalty": "",
             "artist": "MaybelsArt",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Take from Within",
@@ -3747,17 +3937,18 @@
             "loyalty": "",
             "artist": "Marcela Bolivar",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Crop Tender",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 83,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "As an additional cost to cast this spell, mill a card and sacrifice a creature.\n[i]Insanity \u2014 [/i]At the beginning of your end step, if two or more cards were put into your graveyard from anywhere this turn, draw a card and lose 1 life.",
+            "rules_text": "As an additional cost to cast this spell, mill a card and sacrifice a creature.\n[i]Insanity \u2013 [/i]At the beginning of your end step, if two or more cards were put into your graveyard from anywhere this turn, draw a card and lose 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -3766,13 +3957,14 @@
             "loyalty": "",
             "artist": "David Astruga",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Aftermath Preacher",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Cleric",
+            "type": "Creature \u2013 Human Cleric",
             "number": 77,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -3785,13 +3977,14 @@
             "loyalty": "",
             "artist": "Arthur MoscaPro",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Metanoia, Embracer of Ends",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2014 Human Warlock",
+            "type": "Legendary Creature \u2013 Human Warlock",
             "number": 101,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -3804,13 +3997,14 @@
             "loyalty": "",
             "artist": "Tobias Kwan",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Summerstill Spirit",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 109,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -3823,13 +4017,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Essence Taker",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 93,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -3842,7 +4037,8 @@
             "loyalty": "",
             "artist": "Luca Xu",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Excoriate",
@@ -3861,7 +4057,8 @@
             "loyalty": "",
             "artist": "Olda Erokhina",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Cost of Guidance",
@@ -3880,7 +4077,8 @@
             "loyalty": "",
             "artist": "Anato Finstark",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Leave Behind",
@@ -3899,7 +4097,8 @@
             "loyalty": "",
             "artist": "Stefan Koidl",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Cruel Reanimation",
@@ -3918,7 +4117,8 @@
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Painful Discovery",
@@ -3937,13 +4137,14 @@
             "loyalty": "",
             "artist": "Federica Costantini",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Dismantler Effigy",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2013 Construct",
             "number": 241,
             "color_identity": "C",
             "cost": "{2}",
@@ -3956,13 +4157,14 @@
             "loyalty": "",
             "artist": "Ilya Popov",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Exorcist's Folly",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2014 Golem",
+            "type": "Artifact Creature \u2013 Golem",
             "number": 242,
             "color_identity": "C",
             "cost": "{4}",
@@ -3975,7 +4177,8 @@
             "loyalty": "",
             "artist": "Bjorn Hurri",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Old Rites Mural",
@@ -3994,13 +4197,14 @@
             "loyalty": "",
             "artist": "Noah Bradley",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Nacent Apparition",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 172,
             "color_identity": "G",
             "cost": "{G}",
@@ -4013,13 +4217,14 @@
             "loyalty": "",
             "artist": "Nika Kuznetsova",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "The Boon Trader",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2014 Spirit",
+            "type": "Legendary Creature \u2013 Spirit",
             "number": 156,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -4032,13 +4237,14 @@
             "loyalty": "",
             "artist": "lei min",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Overburdened Host",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 175,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -4051,13 +4257,14 @@
             "loyalty": "",
             "artist": "Hassan H",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Wickercrown",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 187,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -4070,13 +4277,14 @@
             "loyalty": "",
             "artist": "Alexander Jansson",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Spire-Depths Explorer",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Scout",
+            "type": "Creature \u2013 Human Scout",
             "number": 181,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -4089,13 +4297,14 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Kindler Scouts",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Scout",
+            "type": "Creature \u2013 Human Scout",
             "number": 166,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
@@ -4108,17 +4317,18 @@
             "loyalty": "",
             "artist": "Martin Grip",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Companion of the Lost",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 160,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Vigilance\n[i]Paragon[/i] \u2014 Whenever this creature or another creature you control enters, if you control a creature with power different than each other creature's power, untap target permanent and draw a card.",
+            "rules_text": "Vigilance\n[i]Paragon[/i] \u2013 Whenever this creature or another creature you control enters, if you control a creature with power different than each other creature's power, untap target permanent and draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4127,13 +4337,14 @@
             "loyalty": "",
             "artist": "Seb McKinnon",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Fraywing Traitor",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Faerie Rogue",
+            "type": "Creature \u2013 Faerie Rogue",
             "number": 162,
             "color_identity": "G",
             "cost": "{4}{G}",
@@ -4146,17 +4357,18 @@
             "loyalty": "",
             "artist": "Piotr Jablonski",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Noble Fauna",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Elk",
+            "type": "Creature \u2013 Elk",
             "number": 173,
             "color_identity": "G",
             "cost": "{5}{G}{G}",
-            "rules_text": "At the beginning of combat on your turn, choose one that hasn't been chosen \u2014\n\u2022 This creature gains \u201cCreatures you control get +1/+1.\u201d\n\u2022 This creature gains \u201cCreatures you control have trample.\u201d\n\u2022 This creature gains \u201cWhenever a creature you control dies, you gain 3 life.\u201d",
+            "rules_text": "At the beginning of combat on your turn, choose one that hasn't been chosen \u2013\n\u2022 This creature gains \u201cCreatures you control get +1/+1.\u201d\n\u2022 This creature gains \u201cCreatures you control have trample.\u201d\n\u2022 This creature gains \u201cWhenever a creature you control dies, you gain 3 life.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -4165,7 +4377,8 @@
             "loyalty": "",
             "artist": "Wilhelm Karl Rauber",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Tillerfolk Ambush",
@@ -4175,7 +4388,7 @@
             "number": 185,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "[i]Paragon[/i] \u2014 Choose target creature you control and target creature you don't control. Double the creature you control's power until end of turn if you control a creature with power different than each other creature's power. Then the chosen creatures fight each other.",
+            "rules_text": "[i]Paragon[/i] \u2013 Choose target creature you control and target creature you don't control. Double the creature you control's power until end of turn if you control a creature with power different than each other creature's power. Then the chosen creatures fight each other.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4184,7 +4397,8 @@
             "loyalty": "",
             "artist": "Valeriy Vegara",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Safety of the Morass",
@@ -4194,7 +4408,7 @@
             "number": 180,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Choose one \u2014\n\u2022 Target permanent gains hexproof, indestructible, and \u201cThis permanent can't be sacrificed\u201d until end of turn.\n\u2022 Exile target card from a graveyard. Put that card into its owner's graveyard at the beginning of your next end step.",
+            "rules_text": "Choose one \u2013\n\u2022 Target permanent gains hexproof, indestructible, and \u201cThis permanent can't be sacrificed\u201d until end of turn.\n\u2022 Exile target card from a graveyard. Put that card into its owner's graveyard at the beginning of your next end step.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4203,26 +4417,28 @@
             "loyalty": "",
             "artist": "Stefan Koidl",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Do Not Go Gentle",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Legendary Enchantment \u2014 Elegy",
+            "type": "Legendary Enchantment \u2013 Elegy",
             "number": 161,
             "color_identity": "G",
             "cost": "{G}{G}",
-            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI \u2014 Mill three cards. Create a 1/1 colorless Spirit creature token.\nII \u2014 Draw a card. You gain 3 life.\nIII \u2014 You may return this Elegy and another target permanent you control to its owner's hand",
+            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI \u2013 Mill three cards. Create a 1/1 colorless Spirit creature token.\nII \u2013 Draw a card. You gain 3 life.\nIII \u2013 You may return this Elegy and another target permanent you control to its owner's hand",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI \u2014 Mill three cards. Create a 1/1 colorless Spirit creature token.\nII \u2014 Draw a card. You gain 3 life.\nIII \u2014 You may return this Elegy and another target permanent you control to its owner's hand",
+            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI \u2013 Mill three cards. Create a 1/1 colorless Spirit creature token.\nII \u2013 Draw a card. You gain 3 life.\nIII \u2013 You may return this Elegy and another target permanent you control to its owner's hand",
             "shape": "saga",
             "set": "ELV",
             "loyalty": "",
             "artist": "Nico Navarro",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Stagnant Morass",
@@ -4241,13 +4457,14 @@
             "loyalty": "",
             "artist": "Hideyoshi",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Claimed by the Flock",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 192,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
@@ -4260,7 +4477,8 @@
             "loyalty": "",
             "artist": "Anna Efremova",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Haunted Outlook",
@@ -4279,7 +4497,8 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Abandoned Realm",
@@ -4298,7 +4517,8 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Eerie Tomb",
@@ -4317,13 +4537,14 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Hero of the Memorial",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2014 Human Knight",
+            "type": "Legendary Creature \u2013 Human Knight",
             "number": 132,
             "color_identity": "R",
             "cost": "{R}",
@@ -4336,13 +4557,14 @@
             "loyalty": "",
             "artist": "Carlos Eduardo Loiola",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Calamity Prophet",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Warlock",
+            "type": "Creature \u2013 Human Warlock",
             "number": 121,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -4355,13 +4577,14 @@
             "loyalty": "",
             "artist": "Shar'ya Ardat",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Stirring Mote",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 148,
             "color_identity": "R",
             "cost": "{R}{R}",
@@ -4374,13 +4597,14 @@
             "loyalty": "",
             "artist": "ABearded Artist",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Solitary Kindler",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Monk",
+            "type": "Creature \u2013 Human Monk",
             "number": 144,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -4393,13 +4617,14 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Forsaken Queen",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Noble",
+            "type": "Creature \u2013 Human Noble",
             "number": 130,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -4412,13 +4637,14 @@
             "loyalty": "",
             "artist": "Pierre Raveneau",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Ash Toller",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 115,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -4431,13 +4657,14 @@
             "loyalty": "",
             "artist": "Pawel Latkowski",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Barrenwake Vestige",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 116,
             "color_identity": "R",
             "cost": "{4}{R}",
@@ -4450,7 +4677,8 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Beset",
@@ -4460,7 +4688,7 @@
             "number": 117,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Put a +1/+1 counter on target creature you control, then choose one \u2014\n\u2022 It gains haste until end of turn.\n\u2022 It deals damage equal to its power to any other target. Then sacrifice it.",
+            "rules_text": "Put a +1/+1 counter on target creature you control, then choose one \u2013\n\u2022 It gains haste until end of turn.\n\u2022 It deals damage equal to its power to any other target. Then sacrifice it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4469,7 +4697,8 @@
             "loyalty": "",
             "artist": "\u7280\u725b\u7cbe",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Fiery Remains",
@@ -4488,7 +4717,8 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Wake to Ruin",
@@ -4507,26 +4737,28 @@
             "loyalty": "",
             "artist": "Max Bedulenko",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Speak in Vain to Silent Ash",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Legendary Enchantment \u2014 Elegy",
+            "type": "Legendary Enchantment \u2013 Elegy",
             "number": 145,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI, II \u2014 Speak in Vain to Silent Ash deals 2 damage to each player and 1 damage to up to one target creature or planeswalker.\nIII \u2014 Discard a card, then draw a card. If you do, create a Treasure token.\n\u200b",
+            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI, II \u2013 Speak in Vain to Silent Ash deals 2 damage to each player and 1 damage to up to one target creature or planeswalker.\nIII \u2013 Discard a card, then draw a card. If you do, create a Treasure token.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI, II \u2014 Speak in Vain to Silent Ash deals 2 damage to each player and 1 damage to up to one target creature or planeswalker.\nIII \u2014 Discard a card, then draw a card. If you do, create a Treasure token.\n\u200b",
+            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI, II \u2013 Speak in Vain to Silent Ash deals 2 damage to each player and 1 damage to up to one target creature or planeswalker.\nIII \u2013 Discard a card, then draw a card. If you do, create a Treasure token.\n\u200b",
             "shape": "saga",
             "set": "ELV",
             "loyalty": "",
             "artist": "DemonLife",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Seize Charge",
@@ -4545,7 +4777,8 @@
             "loyalty": "",
             "artist": "Saeed Farhangian",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Uncaring Flame",
@@ -4564,13 +4797,14 @@
             "loyalty": "",
             "artist": "Seb McKinnon",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Wickercrown Stasher",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 238,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
@@ -4583,13 +4817,14 @@
             "loyalty": "",
             "artist": "Johan Egerkrans",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Gray Marsh Drowner",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Merfolk",
+            "type": "Creature \u2013 Merfolk",
             "number": 54,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -4602,13 +4837,14 @@
             "loyalty": "",
             "artist": "Lois Van Baarle",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Illusory Host",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Illusion",
+            "type": "Creature \u2013 Illusion",
             "number": 58,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -4621,17 +4857,18 @@
             "loyalty": "",
             "artist": "naux830",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Bridge of Yearning",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2014 Wall",
+            "type": "Artifact Creature \u2013 Wall",
             "number": 44,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Defender\nWhen this creature enters, surveil 2.\n[i]Insanity [/i]\u2014 At the beginning of your end step, if two or more cards were put into your graveyard from anywhere this turn, tap up to one target creature and put a stun counter on it.",
+            "rules_text": "Defender\nWhen this creature enters, surveil 2.\n[i]Insanity [/i]\u2013 At the beginning of your end step, if two or more cards were put into your graveyard from anywhere this turn, tap up to one target creature and put a stun counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "0/3",
             "special_text": "",
@@ -4640,13 +4877,14 @@
             "loyalty": "",
             "artist": "Monica Antonie Meineche",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Spectre of Forgetting",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 68,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -4659,13 +4897,14 @@
             "loyalty": "",
             "artist": "Dillon Samuelson",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Twinning Mage",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Spellshaper",
+            "type": "Creature \u2013 Human Spellshaper",
             "number": 74,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
@@ -4678,7 +4917,8 @@
             "loyalty": "",
             "artist": "LI HH",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Drowners' Wake",
@@ -4697,7 +4937,8 @@
             "loyalty": "",
             "artist": "Stefan Koidl",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Thoughtbriar",
@@ -4707,7 +4948,7 @@
             "number": 73,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "[i]Insanity \u2014 [/i]Counter target spell unless its controller pays {2}. If two or more cards were put into your graveyard from anywhere this turn, counter that spell instead.",
+            "rules_text": "[i]Insanity \u2013 [/i]Counter target spell unless its controller pays {2}. If two or more cards were put into your graveyard from anywhere this turn, counter that spell instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4716,7 +4957,8 @@
             "loyalty": "",
             "artist": "Michael Whelan",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Exchange of Insight",
@@ -4735,26 +4977,28 @@
             "loyalty": "",
             "artist": "Seb McKinnon",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Stars Are Not Wanted Now",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Legendary Enchantment \u2014 Elegy",
+            "type": "Legendary Enchantment \u2013 Elegy",
             "number": 71,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI, II, III \u2014 Mill a card. When you mill a nonland card this way, up to one target creature has base power and toughness equal to that card's mana value until end of turn.\n\u200b\n\u200b",
+            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI, II, III \u2013 Mill a card. When you mill a nonland card this way, up to one target creature has base power and toughness equal to that card's mana value until end of turn.\n\u200b\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI, II, III \u2014 Mill a card. When you mill a nonland card this way, up to one target creature has base power and toughness equal to that card's mana value until end of turn.\n\u200b\n\u200b",
+            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI, II, III \u2013 Mill a card. When you mill a nonland card this way, up to one target creature has base power and toughness equal to that card's mana value until end of turn.\n\u200b\n\u200b",
             "shape": "saga",
             "set": "ELV",
             "loyalty": "",
             "artist": "Anato Finstark",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Mystic Relic",
@@ -4773,7 +5017,8 @@
             "loyalty": "",
             "artist": "Matheus Graef",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Blind Voyage",
@@ -4792,7 +5037,8 @@
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Reflected Souls",
@@ -4811,7 +5057,8 @@
             "loyalty": "",
             "artist": "John Howe",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Fugue of Spirits",
@@ -4830,13 +5077,14 @@
             "loyalty": "",
             "artist": "OvenEnvironmental",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Experient Soul",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 8,
             "color_identity": "W",
             "cost": "{W}",
@@ -4849,17 +5097,18 @@
             "loyalty": "",
             "artist": "Nino Vecia",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Outland Trader",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Rogue",
+            "type": "Creature \u2013 Human Rogue",
             "number": 22,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "When this creature enters, resound. [i](Trigger any number of resound abilities among permanents you control.)[/i]\nResound \u2014 You may pay {1}{W}. If you do, destroy target artifact or enchantment. Its controller draws a card.",
+            "rules_text": "When this creature enters, resound. [i](Trigger any number of resound abilities among permanents you control.)[/i]\nResound \u2013 You may pay {1}{W}. If you do, destroy target artifact or enchantment. Its controller draws a card.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4868,13 +5117,14 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Knight of Old Boons",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Knight",
+            "type": "Creature \u2013 Human Knight",
             "number": 17,
             "color_identity": "W",
             "cost": "{W}{W}",
@@ -4887,13 +5137,14 @@
             "loyalty": "",
             "artist": "Nikita Shushman",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Last Flagbearers",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Flagbearer",
+            "type": "Creature \u2013 Human Flagbearer",
             "number": 18,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -4906,13 +5157,14 @@
             "loyalty": "",
             "artist": "BASTIEN LECOUFFE DEHARME",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Light of the Catacombs",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 19,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -4925,17 +5177,18 @@
             "loyalty": "",
             "artist": "F3LC4T",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Child of the Embrace",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human",
+            "type": "Creature \u2013 Human",
             "number": 4,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "At the beginning of your upkeep, your may tap four untapped creatures you control. If you do, resound twice. [i](Trigger any number of resound abilities among permanents you control.)[/i]\nResound \u2014 For each opponent, tap up to two target creatures that player controls.",
+            "rules_text": "At the beginning of your upkeep, your may tap four untapped creatures you control. If you do, resound twice. [i](Trigger any number of resound abilities among permanents you control.)[/i]\nResound \u2013 For each opponent, tap up to two target creatures that player controls.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -4944,17 +5197,18 @@
             "loyalty": "",
             "artist": "Seb McKinnon",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Fyul, Spiritclaimer",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2014 Human Ranger",
+            "type": "Legendary Creature \u2013 Human Ranger",
             "number": 11,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "[i]Paragon[/i] \u2014 When Fyul enters, exile up to one other target creature until Fyul leaves the battlefield. If you control a creature with power different than each other creature's power, this ability triggers an additional time.",
+            "rules_text": "[i]Paragon[/i] \u2013 When Fyul enters, exile up to one other target creature until Fyul leaves the battlefield. If you control a creature with power different than each other creature's power, this ability triggers an additional time.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4963,13 +5217,14 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Mourned Fraywings",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 20,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
@@ -4982,26 +5237,28 @@
             "loyalty": "",
             "artist": "Taras Susak",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "A Violet by a Mossy Stone",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Legendary Enchantment \u2014 Elegy",
+            "type": "Legendary Enchantment \u2013 Elegy",
             "number": 35,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI \u2014 Search your library for a basic Plains card, reveal it, then shuffle and put that card on top.\nII \u2014 You gain 2 life.\nIII \u2014 Create a 1/1 colorless Spirit creature token.",
+            "rules_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI \u2013 Search your library for a basic Plains card, reveal it, then shuffle and put that card on top.\nII \u2013 You gain 2 life.\nIII \u2013 Create a 1/1 colorless Spirit creature token.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI \u2014 Search your library for a basic Plains card, reveal it, then shuffle and put that card on top.\nII \u2014 You gain 2 life.\nIII \u2014 Create a 1/1 colorless Spirit creature token.",
+            "special_text": "[i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]\nI \u2013 Search your library for a basic Plains card, reveal it, then shuffle and put that card on top.\nII \u2013 You gain 2 life.\nIII \u2013 Create a 1/1 colorless Spirit creature token.",
             "shape": "saga",
             "set": "ELV",
             "loyalty": "",
             "artist": "Ferdinand Keller",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Slay the Host",
@@ -5020,13 +5277,14 @@
             "loyalty": "",
             "artist": "Jakum Rozalski",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Betweening Boon",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 2,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -5039,7 +5297,8 @@
             "loyalty": "",
             "artist": "\u767b\u795e\u957f\u9636",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Return by Moonlight",
@@ -5058,13 +5317,14 @@
             "loyalty": "",
             "artist": "Irina Nordsol Kuzmina",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Lonesome One",
             "color": "WU",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Spirit",
+            "type": "Creature \u2013 Spirit",
             "number": 212,
             "color_identity": "WU",
             "cost": "{6}{W}{U}",
@@ -5077,7 +5337,8 @@
             "loyalty": "",
             "artist": "Jana Heidersdorf",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Ekher, Spiritclaimed Waste",
@@ -5087,7 +5348,7 @@
             "number": 254,
             "color_identity": "UB",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {U} or {B}.\n[i]Insanity[/i] \u2014 At the beginning of your end step, if two or more cards were put into your graveyard from anywhere this turn, untap Ekher, then surveil 1.",
+            "rules_text": "This land enters tapped.\n{T}: Add {U} or {B}.\n[i]Insanity[/i] \u2013 At the beginning of your end step, if two or more cards were put into your graveyard from anywhere this turn, untap Ekher, then surveil 1.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5096,7 +5357,8 @@
             "loyalty": "",
             "artist": "Daria Khelbnikova",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Amel, Outcarved Heart",
@@ -5115,7 +5377,8 @@
             "loyalty": "",
             "artist": "Lepra",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Vrai, Wildgrown Hill",
@@ -5125,7 +5388,7 @@
             "number": 264,
             "color_identity": "WG",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {G} or {W}.\n[i]Paragon[/i] \u2014 At the beginning of combat on your turn, you may pay {G} or {W}. If you do, target creature gets +1/+1 until end of turn. If you control a creature with power different than each other creature's power, instead put a +1/+1 counter on that creature.",
+            "rules_text": "This land enters tapped.\n{T}: Add {G} or {W}.\n[i]Paragon[/i] \u2013 At the beginning of combat on your turn, you may pay {G} or {W}. If you do, target creature gets +1/+1 until end of turn. If you control a creature with power different than each other creature's power, instead put a +1/+1 counter on that creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5134,7 +5397,8 @@
             "loyalty": "",
             "artist": "Vulpes-Ibculta",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Novu, Forgotten Domain",
@@ -5144,7 +5408,7 @@
             "number": 260,
             "color_identity": "WU",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {W} or {U}.\nResound \u2014 Target player mills three cards.",
+            "rules_text": "This land enters tapped.\n{T}: Add {W} or {U}.\nResound \u2013 Target player mills three cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5153,7 +5417,8 @@
             "loyalty": "",
             "artist": "Ben J.",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Pashq, Overtaken Citadel",
@@ -5172,13 +5437,14 @@
             "loyalty": "",
             "artist": "FromSoftware",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Plains",
+            "type": "Basic Land \u2013 Plains",
             "number": 267,
             "color_identity": "W",
             "cost": "",
@@ -5191,13 +5457,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Mountain",
+            "type": "Basic Land \u2013 Mountain",
             "number": 272,
             "color_identity": "R",
             "cost": "",
@@ -5210,13 +5477,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Mountain",
+            "type": "Basic Land \u2013 Mountain",
             "number": 273,
             "color_identity": "R",
             "cost": "",
@@ -5229,13 +5497,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Forest",
+            "type": "Basic Land \u2013 Forest",
             "number": 274,
             "color_identity": "G",
             "cost": "",
@@ -5248,13 +5517,14 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2014 Forest",
+            "type": "Basic Land \u2013 Forest",
             "number": 275,
             "color_identity": "G",
             "cost": "",
@@ -5267,7 +5537,8 @@
             "loyalty": "",
             "artist": "Artem Demura",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         },
         {
             "card_name": "Copy",
@@ -5286,8 +5557,8 @@
             "loyalty": "",
             "artist": "Victor Hugo Harmatiuk",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "jpg"
         }
-    ],
-    "version": 1
+    ]
 }
