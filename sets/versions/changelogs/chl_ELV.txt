@@ -1,4 +1,215 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Exorcist's Recall added.
+
+Flaming Fields removed.
+Extirpate removed.
+
+Treacleblossom
+rules_text: At the beginning of your upkeep, you gain 1 life and create a 1/1 colorless Spirit creature token. => At the beginning of your upkeep, create a 1/1 colorless Spirit creature token.
+
+Host of the Great Return
+rules_text: At the beginning of your end step, for each nonland permanent card in your graveyard with the least mana value among those cards, return that card to the battlefield tapped with a finality counter on it. Its a 5/5 Spirit creature in addition to its other types. => At the beginning of your end step, for each nonland permanent card in your graveyard with the least mana value among cards in your graveyard, return that card to the battlefield tapped with a finality counter on it. It's a 5/5 Spirit creature in addition to its other types.
+
+Zhalle, Protracted Agony
+rules_text: Double strike, lifelink
+When Zhalle enters, for each player whose life total less than 10, that player's life total becomes 10.
+Whenever a player gains life during your turn, if it's the first time that player gained life this turn, draw a card. => Double strike, lifelink
+When Zhalle enters, for each player whose life total is less than 10, that player's life total becomes 10.
+Whenever a player gains life during your turn, if it's the first time that player gained life this turn, draw a card.
+
+Unnerving Hush
+cost: {2}{G}{W} => {2}{G}{W}{W}
+
+Maddening Eventuality
+rules_text: Choose one —
+• Counter target noncreature spell, activated ability, or triggered ability.
+• Target player gains control of target noncreature spell, activated ability, or triggered ability. They may choose new targets for it. => Choose one —
+• Counter target noncreature spell, activated ability, or triggered ability.
+• Target player gains control of target activated ability or triggered ability. [i](They don't choose new targets for it.)[/i]
+
+Fraywing Thief
+rules_text: Haste, menace, reach
+Whenever this creature deals combat damage to a player, create a tapped Treasure token.
+Sacrifice an artifact: Put a +1/+1 counter on this creature. => Reach
+Whenever this creature deals combat damage to a player, create a tapped Treasure token.
+Sacrifice an artifact: This creature gets +1/+0 and gains menace until end of turn. Activate only as a sorcery.
+
+Elaye, the Lofty
+rules_text: Flying, lifelink
+Whenever an opponent loses life for the first time each turn, put a +1/+1 counter on Elaye. The same is true for the first time an opponent sacrifices a creature or discards a card each turn. => Flying, lifelink
+Whenever an opponent loses life outside of combat for the first time each turn, put a +1/+1 counter on Elaye. The same is true for the first time an opponent sacrifices a creature or discards a card each turn.
+pt: 2/2 => 1/1
+
+Grieving Stones
+rules_text: This land enters tapped. As it enters, choose a color or surveil 1.
+{T}: Add {C}.
+{T}: Add one mana of the chosen color. [i](If no color was chosen, this ability adds no mana.)[/i] => This land enters tapped. As it enters, choose a color or surveil 1.
+{T}: Add {C} or one mana of the chosen color. [i](If no color was chosen, this ability only adds {C}.)[/i]
+
+False Dreamscapes
+rules_text: Search any number of opponents' libraries for up to three cards with different names and exile them. An opponent chooses one or more of those cards. You may play those cards for as long as they remain exiled, and mana of any type may be spent to cast those spells. => Search any number of opponents' libraries for up to three cards with different names and exile them. An opponent chooses one or more of those cards. You may play the chosen cards for as long as they remain exiled, and mana of any type may be spent to cast those spells.
+
+Turan, Renowned Exorcist
+rules_text: If a card or token would be put into a graveyard from anywhere, exile it instead.
+Whenever one or more cards are put into exile from anywhere, put that many +1/+1 counters on Turan. This ability triggers only once each turn. => Whenever one or more cards are put into exile from anywhere, put that many +1/+1 counters on Turan. This ability triggers only once each turn.
+{G}{W}: Exile target card from a graveyard. Activate only as a sorcery.
+
+Tiren Katabas
+rules_text: [+2]: Untap up to one target creature. Until your next turn, that creature becomes your choice of a Forest or Mountain land.
+[-X]: Exile the top X cards of your library. You may play cards exiled this way until the end of your next turn.
+[-8]: You get an emblem with “Lands you control have indestructible and ‘{T}: Create three Treasure tokens.'” => [+2]: Untap up to one target creature and/or land you control. Until your next turn, a creature chosen this way becomes a Forest and a land chosen this way becomes a 3/3 Elemental creature with vigilance, haste, and hexproof that's still a land.
+[-X]: Exile the top X cards of your library. You may play cards exiled this way until the end of your next turn.
+[-7]: You get an emblem with “Lands you control have indestructible and ‘{T}: Create three Treasure tokens.'”
+special_text: [+2]: Untap up to one target creature. Until your next turn, that creature becomes your choice of a Forest or Mountain land.
+[-X]: Exile the top X cards of your library. You may play cards exiled this way until the end of your next turn.
+[-8]: You get an emblem with “Lands you control have indestructible and ‘{T}: Create three Treasure tokens.'” => [+2]: Untap up to one target creature and/or land you control. Until your next turn, a creature chosen this way becomes a Forest and a land chosen this way becomes a 3/3 Elemental creature with vigilance, haste, and hexproof that's still a land.
+[-X]: Exile the top X cards of your library. You may play cards exiled this way until the end of your next turn.
+[-7]: You get an emblem with “Lands you control have indestructible and ‘{T}: Create three Treasure tokens.'”
+
+Spirit's Remission
+rules_text: As an additional cost to cast this spell, sacrifice a creature or discard a card.
+Exile target creature card or card from a graveyard. => As an additional cost to cast this spell, sacrifice a creature or discard a card.
+Exile target creature or card from a graveyard.
+
+Blightroot's Honored
+type:  => Creature — Human Warrior
+
+Smokemind
+rules_text: Whenever you cast a noncreature spell, if this is the first time this ability has resolved this turn, this creature can't be blocked this turn. If it's the second time, create a 1/1 colorless Spirit creature token. Otherwise, raw a card, then discard a card. => Whenever you cast a noncreature spell, if this is the first time this ability has resolved this turn, this creature can't be blocked this turn. If it's the second time, create a 1/1 colorless Spirit creature token. Otherwise, draw a card, then discard a card.
+
+Contemplate Calamity
+rules_text: [i]Insanity — [/i]Choose one. If two or more cards were put into your graveyard from anywhere this turn, choose one or more instead.
+• Counter target spell unless its controller pays {2}.
+• Surveil 1, then draw a card. => [i]Insanity — [/i]Choose one. If two or more cards were put into your graveyard from anywhere this turn, choose one or more instead.
+• Surveil 3.
+• Draw a card.
+
+Pinnacle Haunt
+rules_text: Deathtouch
+When this creature enters or leaves your graveyard during your turn, you may pay {B}. If you do, each player discards a card and loses 2 life. => Deathtouch
+When this creature enters or leaves your graveyard during your turn, you may pay {1}{B}. If you do, each player loses 2 life.
+pt: 2/1 => 1/1
+
+Emptied Court
+
+Wanderers in Mist
+rules_text: Menace
+When this creature enters or leaves your graveyard during your turn, each other creature gets +1/+1 until end of turn.
+{1}{B}, Discard a card: Return this creature from your graveyard to the battlefield tapped. => Menace
+When this creature enters, each other creature gets -1/-1 until end of turn.
+{3}{B}{B}, Discard a card: Return this creature from your graveyard to the battlefield tapped. Activate only as a sorcery.
+pt: 3/3 => 4/3
+
+World's Edge Guide
+rules_text: [i]Paragon[/i] — Whenever this creature enters or attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle. If you control a creature with power different than each other creature's power, repeat this process once. => [i]Paragon[/i] — Whenever this creature enters or attacks, create a Treasure token. Then if you control a creature with power different than each other creature's power, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+pt: 5/4 => 4/4
+
+Boon Trader's Gift
+rules_text: Target player shuffles their graveyard into their library. Then look at the top X cards of your library, where X is the number of cards shuffled into a library this way. Put up to one creature card with converted mana cost X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order. => Target player shuffles their graveyard into their library. Then search your library for a creature card with mana value X or less, where X is the number of cards shuffled into a library this way. Reveal that card, put it into your hand, then shuffle.
+
+Perfidumancer
+rules_text: Whenever this creature attacks, choose target nontoken creature with mana value less than or equal to the number of cards you've discarded this turn. Tap it and gain control of it until end of turn. It's attacking a player or planeswalker of your choice. => Whenever this creature attacks, choose target nontoken creature with mana value less than or equal to the number of cards you've discarded this turn. Tap it and gain control of it until end of turn. It's attacking an opponent or planeswalker an opponent controls of your choice.
+
+Metanoia's Hunt
+rules_text: Exile cards from the top of your library until you exile a creature card. You may put that card and up to one creature card from your hand onto the battlefield. They each get +2/+0 and gain haste until end of turn. Put the exiled cards on the bottom of your library in a random order. => Shuffle your library, then exile cards from the top of your library until you exile a creature card. You may put that card and up to one creature card from your hand onto the battlefield. They gain haste until end of turn. At the beginning of the next end step, sacrifice those creatures. Put the exiled cards on the bottom of your library in a random order.
+
+Morose Communer
+pt:  => 2/4
+
+Spinneret, the Fate Taker
+rules_text: When Spinneret enters, surveil 3.
+[i]Insanity[/i] — At the beginning of your end step, if two or more cards were put into your graveyard from anywhere this turn, gain control of target creature with power X or less, where X is the number of cards put into your graveyard this turn. => When Spinneret enters, surveil 3.
+[i]Insanity[/i] — At the beginning of your end step, if two or more cards were put into your graveyard from anywhere this turn, gain control of target creature with power X or less until the end of your next turn, where X is the number of cards put into your graveyard this turn.
+
+Aftermath Preacher
+rules_text: Whenever a nontoken creature you control dies, if this isn't a token, you may create a token that's a copy of this creature.
+Tap four untapped Clerics you control: Return target creature card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery. => Whenever a nontoken creature you control dies, if this isn't a token, you may create a token that's a copy of this creature.
+Tap six untapped Clerics you control: Return target creature card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery.
+
+Leave Behind
+rules_text: Target opponent discards two cards. Surveil 1 for each land discarded this way. => As an additional cost to cast this spell, pay 4 life.
+Target opponent discards two cards.
+
+Wickercrown
+rules_text: When this creature enters or leaves your graveyard during your turn, you may pay {1}{G}. If you do, you may return target card from your graveyard from your graveyard to your hand.
+{2}{G}, Exile this card from your graveyard: Create a 1/1 colorless Spirit creature token. => When this creature enters or leaves your graveyard during your turn, you may pay {1}{G}{G}. If you do, you may return target card from your graveyard from your graveyard to your hand.
+
+Spire-Depths Explorer
+rules_text: When this creature enters, search your library for a basic land card and put it onto the battlefield tapped. Then you may return up to one other target creature you control to its owner's hand. If you do, repeat this process once. Then shuffle. => When this creature enters, search your library for a basic land card and put it onto the battlefield tapped, then shuffle. Then you may return up to one other target creature you control to its owner's hand. If you do, put a +1/+1 counter on this creature.
+
+Do Not Go Gentle
+rules_text: [i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]
+I — Mill three cards. Create a 1/1 colorless Spirit creature token.
+II — Draw a card. You gain 3 life.
+III — You may return this Elegy and another target permanent you control to its owner's hand => [i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]
+I — Mill three cards. Create a 1/1 colorless Spirit creature token.
+II — Draw a card. You gain 3 life.
+III — You may return this Elegy and another target permanent you control to its owner's hand.
+special_text: [i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]
+I — Mill three cards. Create a 1/1 colorless Spirit creature token.
+II — Draw a card. You gain 3 life.
+III — You may return this Elegy and another target permanent you control to its owner's hand => [i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]
+I — Mill three cards. Create a 1/1 colorless Spirit creature token.
+II — Draw a card. You gain 3 life.
+III — You may return this Elegy and another target permanent you control to its owner's hand.
+
+Stagnant Morass
+rules_text: Whenever one or more creature cards leave your graveyard during your turn, create a 1/1 colorless Spirit creature token.
+When this enchantment enters, mill four cards. You may put a permanent card from the milled cards into your hand. => Whenever one or more creature cards leave your graveyard during your turn, create a 1/1 colorless Spirit creature token. This ability triggers only once each turn.
+When this enchantment enters, mill four cards. You may put a permanent card from the milled cards into your hand.
+
+Abandoned Realm
+rules_text: When this land enters or leaves your graveyard during your turn, you may pay {1}. If you do, search your library for a basic land card, put it onto the battlefield, then shuffle.
+{T}, Sacrifice this land: Create a tapped Treasure token. => When this land enters or leaves your graveyard during your turn, you may pay {2}. If you do, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{T}, Sacrifice this land: Create a tapped Treasure token.
+
+Hero of the Memorial
+rules_text: Whenever this creature attacks, create a tapped 1/1 colorless Spirit creature token.
+{1}{R}, Sacrifice a token: Hero of the Memorial deals 1 damage to each opponent. => {R}, {T}: Target creature you control gains haste until end of turn.
+{2}{R}, {T}, Sacrifice a token: Hero of the Memorial deals 1 damage to each opponent.
+
+Fiery Remains
+rules_text: Fiery Remains deals 2 damage to any target.
+Cull [i](You may cast a copy of this card from your graveyard by exiling it. Each token you sacrifice pays for {1} to cast it this way. The copy becomes a token.)[/i] => Fiery Remains deals 2 damage to any target.
+Cull [i](You may cast a copy of this card from your graveyard by exiling it. Each token you sacrifice pays for {1} to cast it this way.)[/i]
+
+Thoughtbriar
+rules_text: [i]Insanity — [/i]Counter target spell unless its controller pays {2}. If two or more cards were put into your graveyard from anywhere this turn, counter that spell instead. => [i]Insanity — [/i]Counter target spell unless its controller pays {1}. If two or more cards were put into your graveyard from anywhere this turn, counter that spell unless its controller pays {3} instead.
+
+Stars Are Not Wanted Now
+rules_text: [i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]
+I, II, III — Mill a card. When you mill a nonland card this way, up to one target creature has base power and toughness equal to that card's mana value until end of turn.
+​
+​ => [i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]
+I, II, III — Mill a card. When you mill a card with mana value 1 or greater this way, up to one target creature has base power and toughness equal to that card's mana value until end of turn.
+​
+​
+special_text: [i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]
+I, II, III — Mill a card. When you mill a nonland card this way, up to one target creature has base power and toughness equal to that card's mana value until end of turn.
+​
+​ => [i](As this Elegy enters and whenever a creature you control leaves the battlefield, add a lore counter. Sacrifice this Elegy after III.)[/i]
+I, II, III — Mill a card. When you mill a card with mana value 1 or greater this way, up to one target creature has base power and toughness equal to that card's mana value until end of turn.
+​
+​
+
+Ekher, Spiritclaimed Waste
+rules_text: This land enters tapped.
+{T}: Add {U} or {B}.
+[i]Insanity[/i] — At the beginning of your end step, if two or more cards were put into your graveyard from anywhere this turn, untap Ekher, then surveil 1. => This land enters tapped.
+{T}: Add {U} or {B}.
+[i]Insanity[/i] — At the beginning of your end step, if two or more cards were put into your graveyard from anywhere this turn, you may untap Ekher. If you do, you lose 2 life.
+
+Vrai, Wildgrown Hill
+rules_text: This land enters tapped.
+{T}: Add {G} or {W}.
+[i]Paragon[/i] — At the beginning of combat on your turn, you may pay {G} or {W}. If you do, target creature gets +1/+1 until end of turn. If you control a creature with power different than each other creature's power, instead put a +1/+1 counter on that creature. => This land enters tapped.
+{T}: Add {G} or {W}.
+[i]Paragon[/i] — At the beginning of combat on your turn, you may pay {3}{G} or {3}{W}. If you do, target creature gets +1/+1 until end of turn. If you control a creature with power different than each other creature's power, instead put a +1/+1 counter on that creature.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

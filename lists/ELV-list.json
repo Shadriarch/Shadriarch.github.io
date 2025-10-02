@@ -189,8 +189,8 @@
         "position": ""
     },
     {
-        "card_name": "Harvest Invitation",
-        "number": 97,
+        "card_name": "Emptied Court",
+        "number": 92,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -224,8 +224,8 @@
         "position": ""
     },
     {
-        "card_name": "Pinnacle Haunt",
-        "number": 102,
+        "card_name": "Harvest Invitation",
+        "number": 97,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -259,8 +259,8 @@
         "position": ""
     },
     {
-        "card_name": "Rise from Silt",
-        "number": 105,
+        "card_name": "Pinnacle Haunt",
+        "number": 102,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -294,8 +294,8 @@
         "position": ""
     },
     {
-        "card_name": "Wanderers in Mist",
-        "number": 113,
+        "card_name": "Rise from Silt",
+        "number": 105,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -329,8 +329,8 @@
         "position": ""
     },
     {
-        "card_name": "Aftermath Preacher",
-        "number": 77,
+        "card_name": "Wanderers in Mist",
+        "number": 113,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -364,8 +364,8 @@
         "position": ""
     },
     {
-        "card_name": "Catacomb Stalker",
-        "number": 80,
+        "card_name": "Aftermath Preacher",
+        "number": 77,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -399,8 +399,8 @@
         "position": ""
     },
     {
-        "card_name": "Cost of Guidance",
-        "number": 82,
+        "card_name": "Catacomb Stalker",
+        "number": 80,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -434,8 +434,8 @@
         "position": ""
     },
     {
-        "card_name": "Crop Tender",
-        "number": 83,
+        "card_name": "Cost of Guidance",
+        "number": 82,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -469,8 +469,8 @@
         "position": ""
     },
     {
-        "card_name": "Cruel Reanimation",
-        "number": 84,
+        "card_name": "Crop Tender",
+        "number": 83,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -504,9 +504,9 @@
         "position": ""
     },
     {
-        "card_name": "An Echo and a Light",
-        "number": 89,
-        "shape": "saga",
+        "card_name": "Cruel Reanimation",
+        "number": 84,
+        "shape": "normal",
         "set": "ELV",
         "position": ""
     },
@@ -539,9 +539,9 @@
         "position": ""
     },
     {
-        "card_name": "Elegy Priestess",
-        "number": 91,
-        "shape": "normal",
+        "card_name": "An Echo and a Light",
+        "number": 89,
+        "shape": "saga",
         "set": "ELV",
         "position": ""
     },
@@ -574,8 +574,8 @@
         "position": ""
     },
     {
-        "card_name": "Essence Taker",
-        "number": 93,
+        "card_name": "Elegy Priestess",
+        "number": 91,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -609,8 +609,8 @@
         "position": ""
     },
     {
-        "card_name": "Excoriate",
-        "number": 94,
+        "card_name": "Essence Taker",
+        "number": 93,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -644,8 +644,8 @@
         "position": ""
     },
     {
-        "card_name": "Insatiable Mists",
-        "number": 98,
+        "card_name": "Excoriate",
+        "number": 94,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -679,8 +679,8 @@
         "position": ""
     },
     {
-        "card_name": "Leave Behind",
-        "number": 99,
+        "card_name": "Insatiable Mists",
+        "number": 98,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -714,8 +714,8 @@
         "position": ""
     },
     {
-        "card_name": "Metanoia, Embracer of Ends",
-        "number": 101,
+        "card_name": "Leave Behind",
+        "number": 99,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -749,8 +749,8 @@
         "position": ""
     },
     {
-        "card_name": "Summerstill Spirit",
-        "number": 109,
+        "card_name": "Metanoia, Embracer of Ends",
+        "number": 101,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -784,8 +784,8 @@
         "position": ""
     },
     {
-        "card_name": "Blade Burier",
-        "number": 78,
+        "card_name": "Summerstill Spirit",
+        "number": 109,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -819,8 +819,8 @@
         "position": ""
     },
     {
-        "card_name": "Blighted Insight",
-        "number": 79,
+        "card_name": "Blade Burier",
+        "number": 78,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -854,8 +854,8 @@
         "position": ""
     },
     {
-        "card_name": "Child of Death's Whisper",
-        "number": 81,
+        "card_name": "Blighted Insight",
+        "number": 79,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -889,8 +889,8 @@
         "position": ""
     },
     {
-        "card_name": "Crypt Tree",
-        "number": 86,
+        "card_name": "Child of Death's Whisper",
+        "number": 81,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -924,8 +924,8 @@
         "position": ""
     },
     {
-        "card_name": "Doomside Flock",
-        "number": 87,
+        "card_name": "Crypt Tree",
+        "number": 86,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -959,8 +959,8 @@
         "position": ""
     },
     {
-        "card_name": "Emptied Court",
-        "number": 92,
+        "card_name": "Doomside Flock",
+        "number": 87,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -1342,7 +1342,7 @@
         "position": ""
     },
     {
-        "card_name": "Extirpate",
+        "card_name": "Exorcist's Recall",
         "number": 200,
         "shape": "normal",
         "set": "ELV",
@@ -1828,44 +1828,12 @@
     {
         "card_name": "er"
     },
-    "a->land",
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Flaming Fields",
-        "number": 255,
-        "shape": "normal",
-        "set": "ELV",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
     {
         "card_name": "er"
     },
     {
         "card_name": "Novu, Forgotten Domain",
-        "number": 260,
+        "number": 259,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -1886,42 +1854,42 @@
     },
     {
         "card_name": "Pashq, Overtaken Citadel",
-        "number": 261,
+        "number": 260,
         "shape": "normal",
         "set": "ELV",
         "position": ""
     },
     {
         "card_name": "Vrai, Wildgrown Hill",
-        "number": 264,
-        "shape": "normal",
-        "set": "ELV",
-        "position": ""
-    },
-    {
-        "card_name": "Tidecloak Bound",
         "number": 263,
         "shape": "normal",
         "set": "ELV",
         "position": ""
     },
     {
-        "card_name": "Shroudmire Bound",
+        "card_name": "Tidecloak Bound",
         "number": 262,
         "shape": "normal",
         "set": "ELV",
         "position": ""
     },
     {
+        "card_name": "Shroudmire Bound",
+        "number": 261,
+        "shape": "normal",
+        "set": "ELV",
+        "position": ""
+    },
+    {
         "card_name": "Graspmurk Bound",
-        "number": 256,
+        "number": 255,
         "shape": "normal",
         "set": "ELV",
         "position": ""
     },
     {
         "card_name": "Mosslight Bound",
-        "number": 259,
+        "number": 258,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -1964,14 +1932,14 @@
     },
     {
         "card_name": "Haunted Outlook",
-        "number": 258,
+        "number": 257,
         "shape": "normal",
         "set": "ELV",
         "position": ""
     },
     {
         "card_name": "Grieving Stones",
-        "number": 257,
+        "number": 256,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -1996,20 +1964,13 @@
     },
     {
         "card_name": "Swamp",
-        "number": 270,
+        "number": 269,
         "shape": "normal",
         "set": "ELV",
         "position": ""
     },
     {
         "card_name": "Swamp",
-        "number": 271,
-        "shape": "normal",
-        "set": "ELV",
-        "position": ""
-    },
-    {
-        "card_name": "Island",
         "number": 268,
         "shape": "normal",
         "set": "ELV",
@@ -2017,14 +1978,21 @@
     },
     {
         "card_name": "Island",
-        "number": 269,
+        "number": 266,
+        "shape": "normal",
+        "set": "ELV",
+        "position": ""
+    },
+    {
+        "card_name": "Island",
+        "number": 267,
         "shape": "normal",
         "set": "ELV",
         "position": ""
     },
     {
         "card_name": "Plains",
-        "number": 266,
+        "number": 264,
         "shape": "normal",
         "set": "ELV",
         "position": ""
@@ -2037,51 +2005,32 @@
         "position": ""
     },
     {
-        "card_name": "Plains",
-        "number": 267,
+        "card_name": "Mountain",
+        "number": 270,
         "shape": "normal",
         "set": "ELV",
         "position": ""
     },
     {
         "card_name": "Mountain",
+        "number": 271,
+        "shape": "normal",
+        "set": "ELV",
+        "position": ""
+    },
+    {
+        "card_name": "Forest",
         "number": 272,
         "shape": "normal",
         "set": "ELV",
         "position": ""
     },
     {
-        "card_name": "Mountain",
+        "card_name": "Forest",
         "number": 273,
         "shape": "normal",
         "set": "ELV",
         "position": ""
-    },
-    {
-        "card_name": "Forest",
-        "number": 274,
-        "shape": "normal",
-        "set": "ELV",
-        "position": ""
-    },
-    {
-        "card_name": "Forest",
-        "number": 275,
-        "shape": "normal",
-        "set": "ELV",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
